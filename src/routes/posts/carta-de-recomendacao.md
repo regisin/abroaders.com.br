@@ -119,8 +119,6 @@ Quando ele envia a carta, você recebe uma notificação ou o status dela muda p
 
 > **Como faço para pedir uma carta dessas?**
 
-![Aluno professor](/images/aluno-professor.jpg)
-
 - Faça uma lista dos professores que te conhecem bem, entendem inglês e preferencialmente são proeminentes na sua área. Coloque em ordem de preferência. Tenha alguns professores reserva em mente se algo der errado.
 
 - Procure abordá-los pessoalmente, de forma respeitosa. Explique seus planos e como a ajuda deles é importante pra que deem certo. Se não puder fazer isso pessoalmente, ligue. Dependendo do nível de intimidade, vale usar Skype, Facebook, Whatsapp, Linkedin, Messenger. E-mail também vale, mas é mais impessoal e você corre um risco maior de ser ignorado.

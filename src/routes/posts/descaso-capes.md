@@ -18,7 +18,7 @@ tags:
 published: true
 ---
 
-![Graças ao descaso do Governo Brasileiro com o futuro da ciência no país,  seus impostos estão indo pelo ralo - em dólar](/images/money-down-the-drain.jpg) 
+Graças ao descaso do Governo Brasileiro com o futuro da ciência no país,  seus impostos estão indo pelo ralo - em dólar.
 
 Amigos, já faz um tempo que não publicamos nada. É uma pena que estejamos de volta com esta postagem em particular, mas **agora somos nós que precisamos da ajuda de vocês**. Por isso, hoje não tem piada, nem brincadeira, nem bom humor. Hoje o assunto é sério. Vamos lá.
 
