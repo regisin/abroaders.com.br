@@ -16,7 +16,7 @@ export async function get({ url }) {
 		const slug = slugFromPath(path);
 		const promise = resolver().then((post) => ({
 			slug,
-			...post.metadata
+			...post.metadata,
 		}));
 
 		postPromises.push(promise);

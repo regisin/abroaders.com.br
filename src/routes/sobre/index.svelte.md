@@ -3,7 +3,7 @@
 </script>
 
 <Head
-    title="Equipe | Abroaders"
+    title="Sobre"
     description="Mentes inquietas compartilhando experiências para ajudar você que deseja estudar no exterior"/>
 
 

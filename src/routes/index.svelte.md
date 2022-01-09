@@ -18,11 +18,12 @@
 	export let posts;
 </script>
 
-<Head title="Home | Abroaders" description="Mentes inquietas compartilhando experiências para ajudar você que deseja estudar no exterior" />
+<Head title="Home" description="Mentes inquietas compartilhando experiências para ajudar você que deseja estudar no exterior" />
 
 # Posts
 
-{#each posts as { slug, title, author, description, date }}
+
+{#each posts as { slug, title, author, description, date, data }}
 		<ArticleTitle {slug} {title} />
 		<ArticleMeta {author} {date} />
 		<ArticleDescription {description} {slug} />

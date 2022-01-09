@@ -17,7 +17,7 @@
 
   const hero = {
       title: "Abroaders",
-      url: "/images/logoaBR.png"
+      url: "/images/equipe/logoaBR.png"
   }
   const items = [
       {title: "Home", url: "/"},
