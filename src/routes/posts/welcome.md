@@ -6,7 +6,7 @@ date: "2014-04-01"
 published: true
 ---
 
-![Happy people](/static/images/posts/happy_people.png)
+![Happy people](/images/posts/happy_people.png)
 
 O Abroaders nasceu das mentes inquietas de jovens como você. Surgiu e se sustenta nos alicerces da tão amada – *salve salve* – internet. Um grupo de jovens que buscavam informação, motivação, preparo e apoio em busca de um sonho: *~~**conquistar o mundo**~~* estudar no exterior.
 
