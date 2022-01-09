@@ -12,7 +12,7 @@ Um porta-voz do TOEFL afirmou que a decisão foi tomada pela empresa americana e
 
  
 
-\[caption id="attachment\_284" align="aligncenter" width="668"\]![toefl_toeic_reino unido](images/toefl_uk3.png) Trecho da nota de esclarecimento divulgada no site do governo britânico.\[/caption\]
+\[caption id="attachment\_284" align="aligncenter" width="668"\]![toefl_toeic_reino unido](/images/toefl_uk3.png) Trecho da nota de esclarecimento divulgada no site do governo britânico.\[/caption\]
 
  
 

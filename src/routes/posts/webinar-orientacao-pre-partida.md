@@ -14,7 +14,7 @@ tags:
 published: true
 ---
 
-[![Webinar - Abroaders](images/WEBINAR_abroaders.png)](http://www.abroaders.com.br/wp-content/uploads/2014/07/WEBINAR_abroaders.png) Depois de muito preparo, preenchimento de _applications_, envio de documentos e meses de espera pelos resultados, a tão sonhada admissão para uma universidade chegou!
+[![Webinar - Abroaders](/images/WEBINAR_abroaders.png)](http://www.abroaders.com.br/wp-content/uploads/2014/07/WEBINAR_abroaders.png) Depois de muito preparo, preenchimento de _applications_, envio de documentos e meses de espera pelos resultados, a tão sonhada admissão para uma universidade chegou!
 
 O Abroaders, em parceria com o EducationUSA, organizou um webinar cheio de orientações pré-partida. Conversamos sobre o que esperar de sua vida acadêmica no exterior, a viagem de ida, o que levar e muito mais!
 

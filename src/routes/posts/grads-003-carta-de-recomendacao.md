@@ -13,6 +13,6 @@ tags:
 published: true
 ---
 
-[![GRADS - Abroaders](images/GRADS_003.png)](http://www.abroaders.com.br/wp-content/uploads/2014/07/GRADS_003.png)
+[![GRADS - Abroaders](/images/GRADS_003.png)](http://www.abroaders.com.br/wp-content/uploads/2014/07/GRADS_003.png)
 
 Vale tudo na hora de conseguir uma boa recomendação.

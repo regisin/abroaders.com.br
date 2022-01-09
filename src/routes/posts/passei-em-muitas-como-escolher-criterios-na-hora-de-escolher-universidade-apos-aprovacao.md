@@ -21,7 +21,7 @@ Então você fez tudo direitinho, passou por todas as etapas, pelas siglas LoR,
 
 Aqui vai a primeira dica: o site [www.thegradcafe.com](http://www.thegradcafe.com/), para quem tem um espírito masoquista para quem quer acompanhar os resultados das universidades, é uma comunidade com estudantes que se inscreveram em _grad schools_, mais focado nos EUA e Canadá. A ideia principal do site é simples: cada um que recebe o resultado de sua inscrição vai até a comunidade e publica em qual curso e universidade foi aprovado, suas notas e outras informações. É bem interessante, e falaremos novamente sobre o _gradcafe_ mais abaixo, pois ele possui ainda outras utilidades.
 
-[![2](images/2.png)](http://www.abroaders.com.br/wp-content/uploads/2014/07/2.png)
+[![2](/images/2.png)](http://www.abroaders.com.br/wp-content/uploads/2014/07/2.png)
 
  
 
@@ -79,7 +79,7 @@ O [GradCafe](http://www.thegradcafe.com) além de ser uma ótima ferramenta par
 
 Agora, eu não consigo recomendar suficientemente **o [City-Data](http://www.city-data.com)****, é O site para buscar informações de cidades americanas.**
 
-[![citydata](images/citydata-300x154.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/08/citydata.jpg)
+[![citydata](/images/citydata-300x154.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/08/citydata.jpg)
 
  
 

@@ -16,6 +16,6 @@ tags:
 published: true
 ---
 
-[![Tirinha](images/002.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/002.png)
+[![Tirinha](/images/002.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/002.png)
 
 No meio do caminho tinha uma sigla... No meio do caminho tinha uma, duas, várias siglas!

@@ -23,7 +23,7 @@ Hoje temos um post especial. Nós, os Abroaders, estamos working hard para tira
 
 Pensando nisso,  entrevistamos a Gisele Ribeiro, PhD student de Geotechnical Engineering da Columbia University (NY). Isso mesmo, muito loosho. A Gisele é conhecida pela sua prestatividade  nos grupos do Facebook destinados ao edital de 2013 do Ciência Sem Fronteiras. Suas dicas inspiraram os Abroaders a fazer o mesmo nos grupos do ano seguinte, e finalmente a fazer este site! Ela esteve no seu lugar, no nosso lugar, e agora está vivendo o que por enquanto só está nos nossos sonhos \[diários, eu garanto\]. Vamos à entrevista??
 
-\[caption id="attachment\_296" align="aligncenter" width="761"\][![Gisele e seu marido, no campus da Columbia University (NY). Ela merece!](images/10306874_10152105095063367_148122083_n.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/04/10306874_10152105095063367_148122083_n.jpg) Gisele e seu marido, no campus da Columbia University (NY). Ela merece!\[/caption\]
+\[caption id="attachment\_296" align="aligncenter" width="761"\][![Gisele e seu marido, no campus da Columbia University (NY). Ela merece!](/images/10306874_10152105095063367_148122083_n.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/04/10306874_10152105095063367_148122083_n.jpg) Gisele e seu marido, no campus da Columbia University (NY). Ela merece!\[/caption\]
 
 **A: Como você estruturou o seu Statement of Purpose (SoP) e quais dicas você daria àqueles que ainda não escreveram o documento?**
 

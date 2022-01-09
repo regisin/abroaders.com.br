@@ -6,7 +6,7 @@ categories:
 published: true
 ---
 
-![Average time spent composing email](images/edl-24funnies1-popup.jpg)
+![Average time spent composing email](/images/edl-24funnies1-popup.jpg)
 
 Olá pessoal! Tudo bem? Este post trata de um assunto que pode parecer um tanto quanto simplório, mas que faz toda a diferença para estudar no exterior: **etiqueta virtual**. Tentarei ser breve e oferecer dicas práticas para você que está no início do processo de inscrição, tentando contatos com possíveis orientadores e colegas de pesquisa.
 

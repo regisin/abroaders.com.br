@@ -29,7 +29,7 @@ _Qual tipo de pós-graduação escolher?_
 
 Existem diversos tipos de pós-graduação no mercado, desde mestrados profissionais a doutorados. Em nossa próxima postagem, faremos uma descrição mais detalhada de cada uma para lhe ajudar a escolher a que mais se identifica. De qualquer forma, é bom adiantar, uma coisa é certa: para fazer pós-graduação, **tem que gostar de estudar.**
 
-[![Desisto!](images/DESISTO-txt1-300x256.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/04/DESISTO-txt1.jpg)
+[![Desisto!](/images/DESISTO-txt1-300x256.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/04/DESISTO-txt1.jpg)
 
 _Por que no exterior?_
 
@@ -39,7 +39,7 @@ Nos EUA e na Europa, a academia e o ambiente corporativo não são dois mundos s
 
 Outro fator que atrai muitos estudantes a cursar um mestrado ou doutorado no exterior é o **prestígio** das instituições estrangeiras. Na maioria dos [rankings internacionais](http://www.timeshighereducation.co.uk/world-university-rankings/ "Times Higher Education") , **quase metade** das 100 melhores universidades estão nos EUA, seguidas por instituições europeias e asiáticas. Ter no currículo uma faculdade dessas com certeza representa um diferencial enorme, mas não é interessante focar no título _per se_ e se esquecer do que ele representa. **Vários fatores fazem com que uma universidade tenha excelência**, tais como: estrutura física, equipamentos e tecnologias disponíveis, nível dos professores e pesquisadores, produção científica, influência, produtividade e impacto das publicações, patentes, diversidade e atividades no campus, empregabilidade, recursos financeiros, entre outros. Ou seja, a causa de se embarcar numa aventura como essa é poder desfrutar de tudo isso ao máximo. O diploma será mera **consequência**.
 
-\[caption id="attachment\_71" align="aligncenter"\][![Este é o Engineering Lab da UCR (University of California Riverside - http://ucrtoday.ucr.edu). Se você vê enxerga um parque de diversões, continue a leitura. Você está no lugar certo!](images/Engineering-Lab-University-of-California-Riverside-1024x680.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/04/Engineering-Lab-University-of-California-Riverside.jpg) Este é o Engineering Lab da UCR (University of California Riverside - http://ucrtoday.ucr.edu). Se você enxerga um parque de diversões, continue a leitura. Você está no lugar certo!\[/caption\]
+\[caption id="attachment\_71" align="aligncenter"\][![Este é o Engineering Lab da UCR (University of California Riverside - http://ucrtoday.ucr.edu). Se você vê enxerga um parque de diversões, continue a leitura. Você está no lugar certo!](/images/Engineering-Lab-University-of-California-Riverside-1024x680.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/04/Engineering-Lab-University-of-California-Riverside.jpg) Este é o Engineering Lab da UCR (University of California Riverside - http://ucrtoday.ucr.edu). Se você enxerga um parque de diversões, continue a leitura. Você está no lugar certo!\[/caption\]
 
  
 
@@ -53,4 +53,4 @@ Apesar de toda essa experiência social, o aluno não deve esquecer que seu prop
 
 E então, jovem? Se você quis parar de ler na parte do “gostar de estudar”, desista enquanto é tempo. Talvez a sua área seja vender coco na praia investir em algo mais prático, ou fazer alguma especialização no seu país que não lhe afaste do mercado de trabalho. Agora, se você leu tudo isto e continua motivado, cara, clique [aqui](http://www.abroaders.com.br/ "Welcome to Abroaders: o seu novo guia sobre como estudar no exterior") para continuar explorando o Abroaders e siga em frente. Ah, e **boa sorte – você vai precisar.**
 
-[![studying-for-finals-just-kidding-i-need-to-pass.jpg](images/studying-for-finals-just-kidding-i-need-to-pass.jpg.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/04/studying-for-finals-just-kidding-i-need-to-pass.jpg.jpg)
+[![studying-for-finals-just-kidding-i-need-to-pass.jpg](/images/studying-for-finals-just-kidding-i-need-to-pass.jpg.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/04/studying-for-finals-just-kidding-i-need-to-pass.jpg.jpg)

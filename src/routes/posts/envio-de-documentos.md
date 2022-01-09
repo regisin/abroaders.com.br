@@ -43,7 +43,7 @@ _Mas o que é esta certificação, afinal?_
 
 ¹ É um processo bastante simples **para quem tem fácil acesso à Universidade que emitiu o diploma.** Por que isso? Porque basta se dirigir à secretaria ou coordenação da Universidade com os documentos (diploma e histórico – originais e cópias) em mãos e solicitar ao funcionário responsável que carimbe e assine atestando a “conferência com o original”. Normalmente isso pode ser feito em poucos minutos, dependendo da boa vontade dos envolvidos.
 
-\[caption id="attachment\_334" align="aligncenter" width="300"\][![Poxa vida, minha Universidade fica em outro estado. Posso enviar uma cópia autenticada em cartório desses documentos? ](images/suplicante.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/05/suplicante.jpg) Poxa vida, minha Universidade fica em outro estado. Posso enviar uma cópia autenticada em cartório desses documentos?\[/caption\]
+\[caption id="attachment\_334" align="aligncenter" width="300"\][![Poxa vida, minha Universidade fica em outro estado. Posso enviar uma cópia autenticada em cartório desses documentos? ](/images/suplicante.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/05/suplicante.jpg) Poxa vida, minha Universidade fica em outro estado. Posso enviar uma cópia autenticada em cartório desses documentos?\[/caption\]
 
 Bem... não. Infelizmente, **não** pode. A autenticação no cartório não vale para universidades. Parece estranho, mas uma assinatura de um funcionário da universidade atestando que a cópia confere com o original conta mais que autenticação em cartório. Na verdade, só ela é válida (sabe-se lá por que razão, mas não estamos aqui para contestar o sistema). Então, se você mora em uma cidade ou estado diferente de onde se formou, temos uma má notícia: você terá que viajar para certificar suas cópias. Ou pedir a alguém, ligar, chorar, dar um jeito: o fato é que a Universidade tem que carimbar o diabo das cópias, e ela tem que fazer isto olhando para os documentos originais.
 
@@ -63,7 +63,7 @@ _"Posso pedir para o tradutor da Universidade traduzir e certificar?"_
 
 Não.
 
-\[caption id="attachment\_333" align="aligncenter" width="231"\][![Ah, dane-se! Eu mesmo vou traduzir e vou dar um jeito de certificarem! Posso fazer isso, não posso?](images/Yao_ming_meme_by_lecatinga-d4kpe13-231x300.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/05/Yao_ming_meme_by_lecatinga-d4kpe13.jpg) Ah, dane-se! Eu mesmo vou traduzir e vou dar um jeito de certificarem! Posso fazer isso, não posso?\[/caption\]
+\[caption id="attachment\_333" align="aligncenter" width="231"\][![Ah, dane-se! Eu mesmo vou traduzir e vou dar um jeito de certificarem! Posso fazer isso, não posso?](/images/Yao_ming_meme_by_lecatinga-d4kpe13-231x300.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/05/Yao_ming_meme_by_lecatinga-d4kpe13.jpg) Ah, dane-se! Eu mesmo vou traduzir e vou dar um jeito de certificarem! Posso fazer isso, não posso?\[/caption\]
 
 **Não**, você não pode. Nem você, nem seu amigo, nem seu professor de inglês, nem o tradutor da sua Universidade, nem mesmo o papa pode. **A não ser que a própria universidade emita o documento oficial já em inglês, nenhuma certificação é válida.**
 

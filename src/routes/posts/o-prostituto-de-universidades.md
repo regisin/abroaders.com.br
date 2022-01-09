@@ -26,7 +26,7 @@ Ele se inscreveu para dois mestrados, um doutorado e um mestrado profissional, e
 
 Desde o começo da minha graduação eu já tinha uma certeza: “eu quero estudar fora!”... Mas como eu conseguiria isso? Essa era a grande pergunta! Um dia eu parei e percebi que conhecia várias pessoas bem mais capacitadas do que eu, com um currículo e desempenho exemplar, mas pela falta de um simples quesito, **a proficiência em uma língua estrangeira**, não tinham nem chances de ao menos de participar de um processo seletivo. Logo, desde o inicio da minha graduação eu busquei aprender o máximo possível, pois cada língua é um leque de oportunidades que se abre na sua vida!
 
-![Marcelo em Wisconsin, nos EUA, durante seu intercâmbio!](images/576667_10151493157599424_1347545866_n.jpg)
+![Marcelo em Wisconsin, nos EUA, durante seu intercâmbio!](/images/576667_10151493157599424_1347545866_n.jpg)
 
 Após finalizar a minha graduação e ainda com foco nesse objetivo, tomei uma decisão difícil e fui contra todos os “bons conselhos”: **larguei tudo no Brasil e fui para o exterior** em busca de proficiência em alguma língua. Um ano depois, Maio de 2013, retorno ao Brasil, mas com planos de aplicar apenas no ano seguinte (em 2014 para ir no ano de 2015). Senti que ainda não estava pronto, que precisava pesquisar mais sobre o assunto, ganhar experiência e outras coisas… Até receber a ligação de um professor da faculdade.
 
@@ -80,7 +80,7 @@ Moral da história: Sabe de nada, inocente!
 
 PS.: Foram 341 candidatos do mundo todo e 37 selecionados.
 
-![Marcelo, na Alemanha. Existem muitos muros a desconstruir, diz a frase no muro (segundo ele, é claro, eu não falo alemão! rs)](images/existem-mtos-muros-a-desconstruir.jpg)
+![Marcelo, na Alemanha. Existem muitos muros a desconstruir, diz a frase no muro (segundo ele, é claro, eu não falo alemão! rs)](/images/existem-mtos-muros-a-desconstruir.jpg)
 
 Marcelo, na Alemanha. "Existem muitos muros a desconstruir", diz a frase no muro (segundo ele, é claro, eu não falo alemão! rs)
 

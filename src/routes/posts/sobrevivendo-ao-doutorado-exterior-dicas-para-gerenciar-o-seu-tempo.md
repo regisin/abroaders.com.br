@@ -43,7 +43,7 @@ Ou seja, não está fácil, não _é_ fácil, mas estou dando conta de tudo mesm
 
  
 
-\[caption id="attachment\_565" align="aligncenter" width="500"\][![Mas é que meu viratempo já chegou!](images/viratempo.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/09/viratempo.jpg) Mas é que meu viratempo já chegou!\[/caption\]
+\[caption id="attachment\_565" align="aligncenter" width="500"\][![Mas é que meu viratempo já chegou!](/images/viratempo.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/09/viratempo.jpg) Mas é que meu viratempo já chegou!\[/caption\]
 
  
 
@@ -74,7 +74,7 @@ Pronto? Vamos ao que interessa.
 
 1. **Dicas gerais** 
 
- _[![calendario](images/calendario-300x260.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/09/calendario.jpg)_ **_To-do lists_, calendários e agendas são itens indispensáveis.** Acostume-se a usá-los. Mas cuidado para não exagerar ou você vai acabar se confundindo.
+ _[![calendario](/images/calendario-300x260.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/09/calendario.jpg)_ **_To-do lists_, calendários e agendas são itens indispensáveis.** Acostume-se a usá-los. Mas cuidado para não exagerar ou você vai acabar se confundindo.
 
 Não anote tudo o que você tem que fazer em vários locais separados: arranje um espaço para isto e carregue sempre consigo (pode ser um bloco/caderno). Use este instrumento para anotar **apenas** as tarefas que tem que completar. Depois, separe um tempo para organizar estas tarefas, distribuí-las em dias e planejar a semana que está por vir. **Só precisa fazer isto uma ou duas vezes por semana**, e ir ajustando sempre caso as coisas não saiam conforme o esperado.
 
@@ -86,7 +86,7 @@ Aprenda a usar sua agenda. Depois de separar as tarefas na sua semana e organiza
 
 2. **Cuidando da casa** 
 
-**Procure não acumular ![Limpeza](images/Limpeza-300x199.jpg)todas as suas tarefas domésticas em um só dia** (normalmente, o povo adora separar um dia no fim de semana a cada quinzena para fazer _A_ faxina, né). Você vai se desgastar, e acontece que fins de semana são muito bons para estudar e relaxar um pouco. Ao invés disso, **experimente fazer um pouco todos os dias**. Eu juro que não vai tomar mais do que uma hora sua, de segunda a quinta (deixando sexta como coringa e livrando os fins de semana)! E olhe que moro sozinha, tenho a casa toda para limpar sem ajuda! Vou dar o exemplo de como eu faço, e você poderá ver também na figura que vou postar mais abaixo com o meu calendário semanal.
+**Procure não acumular ![Limpeza](/images/Limpeza-300x199.jpg)todas as suas tarefas domésticas em um só dia** (normalmente, o povo adora separar um dia no fim de semana a cada quinzena para fazer _A_ faxina, né). Você vai se desgastar, e acontece que fins de semana são muito bons para estudar e relaxar um pouco. Ao invés disso, **experimente fazer um pouco todos os dias**. Eu juro que não vai tomar mais do que uma hora sua, de segunda a quinta (deixando sexta como coringa e livrando os fins de semana)! E olhe que moro sozinha, tenho a casa toda para limpar sem ajuda! Vou dar o exemplo de como eu faço, e você poderá ver também na figura que vou postar mais abaixo com o meu calendário semanal.
 
  
 
@@ -110,7 +110,7 @@ Você deve montar o seu cronograma de acordo com sua conveniência (veja o que 
 
 3. **A hora do almoço** 
 
-Se você almoça em c![cooking](images/cooking-300x224.jpg)asa, ou se faz sua comida para levar para o trabalho, é importante incorporar o momento de cozinhar na sua rotina. Viver de microondas tem limites! Vai chegar uma hora em que você estará sacrificando sua saúde por causa de uma praticidade que pode custar caro.
+Se você almoça em c![cooking](/images/cooking-300x224.jpg)asa, ou se faz sua comida para levar para o trabalho, é importante incorporar o momento de cozinhar na sua rotina. Viver de microondas tem limites! Vai chegar uma hora em que você estará sacrificando sua saúde por causa de uma praticidade que pode custar caro.
 
 Eu tenho feito minha comida todos os dias. Além de ser mais econômico, é mais saudável e muito mais prazeroso. Se você não suporta cozinhar, tudo bem, vai ter que procurar outra saída. Mas para aqueles que gostam, ou mesmo os que gostariam de aprender, vou dar uma dica: eu não sabia cozinhar também, e estou aprendendo graças a um blog muito bom chamado [Segredos de Tia Emília](http://www.segredosdatiaemilia.com.br "Segredos da Tia Emília"), que tem vídeos acompanhando cada receita, e uma seleção de maravilhosa de pratos do mais básico ao mais sofisticado. Fato é que não me custa mais de uma hora e meia por dia entre cozinhar, comer e lavar os pratos, e já incorporei isso ao meu calendário e à minha rotina.
 
@@ -120,7 +120,7 @@ Dica de ouro (ou rule of thumb, como falam aqui): **planeje o que você vai come
 
 4. **Organizando os estudos** 
 
-Antes de qualquer c![studying](images/studying-300x300.jpg)oisa, certifique-se de que você tem um **canto organizado para estudar**. Se mora sozinho ou seus _roommates_ são tranquilos, pode ser uma boa ideia ter um home-office (eu tenho). Se trabalha muito tempo em laboratório, talvez não precise. Se sua casa for um local onde é difícil se concentrar por qualquer razão externa, use o seu escritório da faculdade ou alguma biblioteca onde se sinta confortável, mas acima de tudo, tenha um bom lugar para estudar!
+Antes de qualquer c![studying](/images/studying-300x300.jpg)oisa, certifique-se de que você tem um **canto organizado para estudar**. Se mora sozinho ou seus _roommates_ são tranquilos, pode ser uma boa ideia ter um home-office (eu tenho). Se trabalha muito tempo em laboratório, talvez não precise. Se sua casa for um local onde é difícil se concentrar por qualquer razão externa, use o seu escritório da faculdade ou alguma biblioteca onde se sinta confortável, mas acima de tudo, tenha um bom lugar para estudar!
 
 Eis como faço:
 
@@ -136,7 +136,7 @@ _Duas dicas**:**_ uma contra o **Facebook e Whatsapp** e uma contra a procrastin
 
 5. **Atividades físicas em dia**
 
-Todo mundo conhece a[![workout](images/workout-300x224.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/09/workout.jpg)quele velho clichê “corpo são, mente sã”. Manter o corpo saudável é essencial para a sobrevivência por aqui, especialmente em condições adversas. **Ajuda você a manter a rotina, aumenta a concentração, diminui os níveis de estresse, equilibra os hormônios** (especialmente para nós, mulheres), principalmente se você estiver meio que num regime celibatário forçado (tamo junto), dentre muitos outros benefícios. Inclusive, tem um [livro](http://www.amazon.com/Spark-Revolutionary-Science-Exercise-Brain/dp/0316113514/ref=sr_1_1?s=books&ie=UTF8&qid=1409847809&sr=1-1&keywords=spark "Spark") muito bom sobre isso.
+Todo mundo conhece a[![workout](/images/workout-300x224.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/09/workout.jpg)quele velho clichê “corpo são, mente sã”. Manter o corpo saudável é essencial para a sobrevivência por aqui, especialmente em condições adversas. **Ajuda você a manter a rotina, aumenta a concentração, diminui os níveis de estresse, equilibra os hormônios** (especialmente para nós, mulheres), principalmente se você estiver meio que num regime celibatário forçado (tamo junto), dentre muitos outros benefícios. Inclusive, tem um [livro](http://www.amazon.com/Spark-Revolutionary-Science-Exercise-Brain/dp/0316113514/ref=sr_1_1?s=books&ie=UTF8&qid=1409847809&sr=1-1&keywords=spark "Spark") muito bom sobre isso.
 
 Por todas estas razões, eu trato atividade física como **saúde e prioridade**. Pode ser complicado continuar sendo rato de academia aqui, e provavelmente você não vai poder gastar o mesmo tempo que gastava no Brasil se gostava muito de malhar, ainda mais se você for homem e gostar de cultivar os músculos, hehe. Mas para quem encara a malhação como saúde, menos horas de dedicação diárias são necessárias e acho que dá para encaixar na rotina perfeitamente.
 
@@ -146,7 +146,7 @@ O que eu fiz: aqui a academia da universidade é top de linha e “de graça”,
 
 6. **Seu momento de higiene mental**
 
-Se eu disser que tenho este momen![game of thrones](images/game-of-thrones-300x225.jpg)to todos os dias, estarei mentindo. Mas eu estou tentando e quero chegar lá. Por enquanto, tenho conseguido mantê-lo na maioria dos meus dias. O que é isso? Um momento só seu, que pode ser de uma hora, mais ou menos (funciona pra mim) em que você faça algo que você goste que não esteja relacionado necessariamente com seu trabalho/pesquisa aí. Isso ajuda muito a você **limpar a mente, renovar as energias e dormir melhor**. Pode ser assistir a uma série de que você goste, falar com um amigo no Skype (não vou falar de whatsapp porque, sejamos sinceros, nós acabamos usando esta droga o dia inteiro, haha) ou simplesmente ficar zapeando canais em frente à TV. Eu não tenho TV e nem me faz falta, diga-se de passagem, mas eu costumo dedicar os minutos finais do meu dia a dançar alguma música loucamente na minha sala ler um livro, tomando um café em minha poltrona (Jesus, tô velha). Isso me faz muito bem! Por sinal, estou lendo um [livro](http://www.amazon.com/Awaken-Giant-Within-Immediate-Emotional/dp/0671791540/ref=sr_1_1?ie=UTF8&qid=1409814454&sr=8-1&keywords=awaken+the+giant+within "Awaken The Giant Within") simplesmente fantástico, para quem se interessar. Até Game of Thrones retornar em abril, claro. Aí terei que dar um jeito de comprar uma TV... hehehe.
+Se eu disser que tenho este momen![game of thrones](/images/game-of-thrones-300x225.jpg)to todos os dias, estarei mentindo. Mas eu estou tentando e quero chegar lá. Por enquanto, tenho conseguido mantê-lo na maioria dos meus dias. O que é isso? Um momento só seu, que pode ser de uma hora, mais ou menos (funciona pra mim) em que você faça algo que você goste que não esteja relacionado necessariamente com seu trabalho/pesquisa aí. Isso ajuda muito a você **limpar a mente, renovar as energias e dormir melhor**. Pode ser assistir a uma série de que você goste, falar com um amigo no Skype (não vou falar de whatsapp porque, sejamos sinceros, nós acabamos usando esta droga o dia inteiro, haha) ou simplesmente ficar zapeando canais em frente à TV. Eu não tenho TV e nem me faz falta, diga-se de passagem, mas eu costumo dedicar os minutos finais do meu dia a dançar alguma música loucamente na minha sala ler um livro, tomando um café em minha poltrona (Jesus, tô velha). Isso me faz muito bem! Por sinal, estou lendo um [livro](http://www.amazon.com/Awaken-Giant-Within-Immediate-Emotional/dp/0671791540/ref=sr_1_1?ie=UTF8&qid=1409814454&sr=8-1&keywords=awaken+the+giant+within "Awaken The Giant Within") simplesmente fantástico, para quem se interessar. Até Game of Thrones retornar em abril, claro. Aí terei que dar um jeito de comprar uma TV... hehehe.
 
 Mas, enfim, isso me ajuda a dormir, e cuidar do seu sono é fundamental nesta história toda. Se você sai do computador onde estava lendo 300 papers e vai imediatamente deitar, é provável que fique ainda ligado ao seu trabalho e não consiga dormir tão cedo – ou pior, sonhe com os malditos papers!
 
@@ -154,7 +154,7 @@ Mas, enfim, isso me ajuda a dormir, e cuidar do seu sono é fundamental nesta hi
 
 7. **Vida social**
 
-[![party](images/party-300x224.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/09/party.jpg)Tá, primeira coisa, acabou a farra. Isso você já sacou, né? Mas também não precisa se isolar ou se privar de vida social, que isso só trará más consequências a médio e longo prazo. Não vai dar pra liberar todos os finais de semana em tempo integral, garantir a cerveja-nossa-de-toda-sexta, perder muitas noites nos finais de semana e muito menos viajar pelos quatro cantos sempre que rolar um feriado. Mas você pode sim fazer tudo isso, ainda que em menor intensidade. Ainda que tenha que juntar dinheiro e programar um adiantamento nos estudos com antecedência para viajar num determinado feriado ou fim de semana do mês, ou que só saia com os amigos nas noites de sábado e nas tardes de domingo, mas **não abra mão da sua vida social**! Ela é tão importante quanto todo o resto, ainda que seu orientador às vezes lhe faça acreditar no contrário (felizmente, o meu é do babado e gosta de uma farra de vez em quando, haha). Em semanas especialmente estressantes, se permita um pequeno break de umas duas horas e vá tomar um sorvete e colocar o papo em dia, por exemplo (vixe, falei igual a revista para adolescentes, agora). **Algumas pequenas pausas na rotina são tão essenciais quanto a própria rotina**, ao meu ver! O importante é planejar, e guardar algumas cartas na manga – ou seja, algumas folgas no cronograma para permitir estas pequenas escapadas ou outros imprevistos.
+[![party](/images/party-300x224.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/09/party.jpg)Tá, primeira coisa, acabou a farra. Isso você já sacou, né? Mas também não precisa se isolar ou se privar de vida social, que isso só trará más consequências a médio e longo prazo. Não vai dar pra liberar todos os finais de semana em tempo integral, garantir a cerveja-nossa-de-toda-sexta, perder muitas noites nos finais de semana e muito menos viajar pelos quatro cantos sempre que rolar um feriado. Mas você pode sim fazer tudo isso, ainda que em menor intensidade. Ainda que tenha que juntar dinheiro e programar um adiantamento nos estudos com antecedência para viajar num determinado feriado ou fim de semana do mês, ou que só saia com os amigos nas noites de sábado e nas tardes de domingo, mas **não abra mão da sua vida social**! Ela é tão importante quanto todo o resto, ainda que seu orientador às vezes lhe faça acreditar no contrário (felizmente, o meu é do babado e gosta de uma farra de vez em quando, haha). Em semanas especialmente estressantes, se permita um pequeno break de umas duas horas e vá tomar um sorvete e colocar o papo em dia, por exemplo (vixe, falei igual a revista para adolescentes, agora). **Algumas pequenas pausas na rotina são tão essenciais quanto a própria rotina**, ao meu ver! O importante é planejar, e guardar algumas cartas na manga – ou seja, algumas folgas no cronograma para permitir estas pequenas escapadas ou outros imprevistos.
 
  
 
@@ -162,7 +162,7 @@ Mas, enfim, isso me ajuda a dormir, e cuidar do seu sono é fundamental nesta hi
 
 Então, como eu disse, aí vai o cronograma semanal que estou seguindo aqui, e que tem dado certo! Claro que já fiz muitos ajustes e continuarei fazendo sempre que achar necessário. A ideia é continuar melhorando sempre!
 
-\[caption id="attachment\_576" align="aligncenter" width="755"\][![meu cronograma](images/meu-cronograma.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/09/meu-cronograma.jpg) Usei vermelho para as aulas da academia, amarelo para as aulas da universidade, verde para o tempo livre de estudo, lilás para as tarefas de casa e o azul para a hora do almoço (tentei manter igual todos os dias). Não incluí os finais de semana porque prefiro deixá-los livres para preparar de acordo com a demanda de cada semana - e do que surgir em termos de lazer!\[/caption\]
+\[caption id="attachment\_576" align="aligncenter" width="755"\][![meu cronograma](/images/meu-cronograma.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/09/meu-cronograma.jpg) Usei vermelho para as aulas da academia, amarelo para as aulas da universidade, verde para o tempo livre de estudo, lilás para as tarefas de casa e o azul para a hora do almoço (tentei manter igual todos os dias). Não incluí os finais de semana porque prefiro deixá-los livres para preparar de acordo com a demanda de cada semana - e do que surgir em termos de lazer!\[/caption\]
 
  
 

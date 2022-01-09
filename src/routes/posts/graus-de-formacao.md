@@ -36,7 +36,7 @@ Os **últimos dois anos** são relacionados principalmente ao _major_ que o estu
 
 Uma curiosidade interessante é que, no geral, a graduação nos EUA tem muito **menos matérias** que no Brasil (dezesseis créditos são muita coisa para um semestre, por exemplo). Isso é porque espera-se que o aluno estude fora da sala o mesmo número de horas que teve de aula. Além disso, muitos alunos trabalham pra ajudar a pagar a faculdade e ficar com menos dívidas antes de se formar.
 
-\[caption id="attachment\_97" align="aligncenter" width="630"\][![Ex undergraduate students comemorando a formatura, sem desconfiar que o verdadeiro desafio ainda está por vir. Sabem de nada, inocentes...](images/p_70026_1_gallerybig.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/04/p_70026_1_gallerybig.jpg) Ex undergraduate students comemorando a formatura, sem desconfiar que o verdadeiro desafio ainda está por vir. Sabem de nada, inocentes...\[/caption\]
+\[caption id="attachment\_97" align="aligncenter" width="630"\][![Ex undergraduate students comemorando a formatura, sem desconfiar que o verdadeiro desafio ainda está por vir. Sabem de nada, inocentes...](/images/p_70026_1_gallerybig.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/04/p_70026_1_gallerybig.jpg) Ex undergraduate students comemorando a formatura, sem desconfiar que o verdadeiro desafio ainda está por vir. Sabem de nada, inocentes...\[/caption\]
 
 _3. Graduate Degree_
 
@@ -54,7 +54,7 @@ O doutorado ou PhD dura geralmente de 4 a 6 anos. Nos dois primeiros anos, esper
 
 Se aprovado, o aluno vira _PhD candidate_. Caso contrário, **pode receber o grau de mestre** como “prêmio de consolação”. Além disso, alguns estudantes acabam descobrindo que não querem continuar fazendo pesquisa, ou recebem uma oferta de emprego tentadora, e optam por abandonar o PhD, recebendo o título de mestre.
 
-\[caption id="attachment\_98" align="aligncenter" width="400"\][![Estudantes de doutorado precisam ser TA (Teaching Assistant - ou seja, dar aulas!)  durante um determinado tempo para receber o diploma.](images/GradTeaching.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/04/GradTeaching.jpg) Estudantes de doutorado precisam ser TA (Teaching Assistant - ou seja, dar aulas!) durante um determinado tempo para receber o diploma.\[/caption\]
+\[caption id="attachment\_98" align="aligncenter" width="400"\][![Estudantes de doutorado precisam ser TA (Teaching Assistant - ou seja, dar aulas!)  durante um determinado tempo para receber o diploma.](/images/GradTeaching.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/04/GradTeaching.jpg) Estudantes de doutorado precisam ser TA (Teaching Assistant - ou seja, dar aulas!) durante um determinado tempo para receber o diploma.\[/caption\]
 
 A [**CAPES**](http://www.capes.gov.br/ "CAPES") oferece bolsas de estudo tanto para **Mestrado Profissional** quanto para Doutorado nos EUA, nas categorias **Doutorado Sanduíche** e **Doutorado Pleno**. Fique atento ao [Abroaders](http://www.abroaders.com.br/ "Welcome to Abroaders: o seu novo guia sobre como estudar no exterior") para mais informações e [escolha a opção que mais combina com a sua carreira](http://www.abroaders.com.br/porque-fazer-pos/ "Pós-graduação nos EUA: saiba se deve tentar e por quê")!
 

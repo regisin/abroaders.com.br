@@ -29,4 +29,4 @@ Quer saber mais?
 
 Temos um e-book saindo do forno para vocês!!
 
-\[caption id="attachment\_449" align="aligncenter" width="365"\][![Baixe o GRE Detonado clicando na imagem acima!](images/gre.jpg)](http://www.abroaders.com.br/wp-content/uploads/2018/01/GRE-Detonado.pdf) Baixe o GRE Detonado clicando na imagem acima!\[/caption\]
+\[caption id="attachment\_449" align="aligncenter" width="365"\][![Baixe o GRE Detonado clicando na imagem acima!](/images/gre.jpg)](http://www.abroaders.com.br/wp-content/uploads/2018/01/GRE-Detonado.pdf) Baixe o GRE Detonado clicando na imagem acima!\[/caption\]

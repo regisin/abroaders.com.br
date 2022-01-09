@@ -10,7 +10,7 @@ Se você caiu de paraquedas nesse artigo, PARABÉNS, acredito que seja um candid
 
 **GPA** é a sigla para **GRADE POINT AVERAGE,** que nada mais é do que as suas notas colocadas em uma escala diferente daquela existente no seu país. Basicamente, é usada nos EUA para medir o seu desempenho nos estudos. Por ser um padrão amplamente utilizado por lá, o GPA serve para comparar o desempenho dos alunos em uma mesma escala (como as nossas notas aqui no Brasil). Mas então, qual é a diferença? Por que não posso usar a nossa escala de 0-10 ou 0-100? Bem, colega, pela mesma maneira que eles usam ºF, jardas, pés, milhas ... WHO KNOWS ?
 
-\[caption id="attachment\_368" align="aligncenter" width="180"\][![](images/Uncle20Sam.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/05/Uncle20Sam.jpg) Porque EU QUERO e pronto!\[/caption\]
+\[caption id="attachment\_368" align="aligncenter" width="180"\][![](/images/Uncle20Sam.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/05/Uncle20Sam.jpg) Porque EU QUERO e pronto!\[/caption\]
 
 Mas nada é tão difícil quanto parece.
 
@@ -33,11 +33,11 @@ Ele é basicamente calculado da seguinte forma:
 - dividir a soma da pontuação ponderada do GPA  pela soma dos pontos da unidade de crédito
 - calcular três casas decimais.
 
-\[caption id="attachment\_369" align="aligncenter" width="242"\][![WTF...](images/math.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/05/math.jpg) WTF...\[/caption\]
+\[caption id="attachment\_369" align="aligncenter" width="242"\][![WTF...](/images/math.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/05/math.jpg) WTF...\[/caption\]
 
 Ficou confuso? Veja essa tabelinha:
 
-[![GPA](images/GPA.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/05/GPA.jpg)
+[![GPA](/images/GPA.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/05/GPA.jpg)
 
 Nesse exemplo o seu GPA seria, 73/15 = **4.87 GPA**
 

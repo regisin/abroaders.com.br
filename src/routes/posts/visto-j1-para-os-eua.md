@@ -33,13 +33,13 @@ Bem, provavelmente não, mas talvez este post consiga esclarecer algumas dúvid
 
 1\. Entre [neste site](https://www.fmjfee.com/i901fee/index.jsp "PAGAR A SEVIS"). Tenha em mãos seu formulário de visto (Form I-20 ou DS-2019 - vou me basear neste último), um cartão de crédito, e sangue frio para pagar pelo menos **U$180 (dólares).** 2. Procure e clique nesta opção:
 
-[![sevis option fill](images/sevis-option-fill.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/sevis-option-fill.png) 3. Selecione o tipo de formulário que você **tem em** **mãos**, dependendo de qual será o seu tipo de visto;[![sevis form op](images/sevis-form-op.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/sevis-form-op.png) 4. Você vai encontrar a seguinte tela. Nela, escreva seus dados exatamente como aparecem no seu formulário (neste caso, vou falar do DS-2019, que foi a opção que marquei previamente). No **SEVIS IDENTIFICATION NUMBER,** insira o número que aparece no **canto superior direito** do seu DS-2019. Ele estará no formato N XXXXXXXXXX.
+[![sevis option fill](/images/sevis-option-fill.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/sevis-option-fill.png) 3. Selecione o tipo de formulário que você **tem em** **mãos**, dependendo de qual será o seu tipo de visto;[![sevis form op](/images/sevis-form-op.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/sevis-form-op.png) 4. Você vai encontrar a seguinte tela. Nela, escreva seus dados exatamente como aparecem no seu formulário (neste caso, vou falar do DS-2019, que foi a opção que marquei previamente). No **SEVIS IDENTIFICATION NUMBER,** insira o número que aparece no **canto superior direito** do seu DS-2019. Ele estará no formato N XXXXXXXXXX.
 
-[![applicant validation info sevis](images/applicant-validation-info-sevis.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/applicant-validation-info-sevis.png)
+[![applicant validation info sevis](/images/applicant-validation-info-sevis.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/applicant-validation-info-sevis.png)
 
 5\. Em determinado momento, você vai ter que preencher um campo chamado EXCHANGE VISITOR CATEGORY. Atenção aqui! Por mais que você se sinta tentado em marcar a opção em que mais se encaixa, **olhe no seu DS-2019 qual a opção que está escrita lá**. No meu, estava escrito "Student Doctorate". Então, marquei a opção "Student (college/university) $180".
 
-6\. Ao final (não vou falar do processo INTEIRO com imagens porque não é necessário, vou pontuar as partes mais importantes e as que acho que podem gerar dúvidas),  após colocar os dados do seu cartão de crédito\* , você vai ver a seguinte tela: [![CONFIRMATION PAYMENT SEVIS](images/CONFIRMATION-PAYMENT-SEVIS.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/CONFIRMATION-PAYMENT-SEVIS.png) Clique em PRINT PAYMENT CONFIRMATION, imprima uma cópia física e salve uma em pdf. Você vai precisar da cópia física no dia da sua entrevista no Consulado. \*o meu MasterCard não foi aceito e tive que usar o American Express, então por via das dúvidas tenham dois em mãos.   Pronto, seu SEVIS foi pago. Hora de partir para a segunda (e mais demorada) fase.
+6\. Ao final (não vou falar do processo INTEIRO com imagens porque não é necessário, vou pontuar as partes mais importantes e as que acho que podem gerar dúvidas),  após colocar os dados do seu cartão de crédito\* , você vai ver a seguinte tela: [![CONFIRMATION PAYMENT SEVIS](/images/CONFIRMATION-PAYMENT-SEVIS.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/CONFIRMATION-PAYMENT-SEVIS.png) Clique em PRINT PAYMENT CONFIRMATION, imprima uma cópia física e salve uma em pdf. Você vai precisar da cópia física no dia da sua entrevista no Consulado. \*o meu MasterCard não foi aceito e tive que usar o American Express, então por via das dúvidas tenham dois em mãos.   Pronto, seu SEVIS foi pago. Hora de partir para a segunda (e mais demorada) fase.
 
 ### **SEGUNDA FASE: PREENCHENDO O DS-160**
 
@@ -61,11 +61,11 @@ Bem, provavelmente não, mas talvez este post consiga esclarecer algumas dúvid
 
 2\. Antes de fazer qualquer coisa, dê uma lida nestes links à esquerda (marquei sutilmente com uma discreta seta). Depois, preencha a lacuna com a cidade onde agendará sua entrevista. Por fim, selecione Start an Application (nada óbvio).
 
-[![0](images/0.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/0.png)
+[![0](/images/0.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/0.png)
 
-3\. O formulário é longo e possui várias sessões. Você terá a opção **SAVE** ao final de cada página e eu sugiro que a use (salve sempre, especialmente se sua internet não for das melhores, porque depois você poderá retornar ao site com o **application ID** que receberá logo no início e retomar de onde parou). Toda vez que salvar, verá a tela abaixo e poderá clicar em "continue application" para prosseguir.[![4](images/4-300x244.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/4.png) 3. Você vai passar ileso pelas questões sobre seus dados pessoais, é claro. Então, na sessão de Travel Information, vai se deparar com uma que pergunta: **Quem está pagando a sua viagem??** Aqui, a dica é: confira seu DS-2019. Olhe no item "Program Sponsor" e veja quem está lá declarado como patrocinador. No meu caso, por exemplo, é a LASPAU, então eu preenchi esta tela assim:
+3\. O formulário é longo e possui várias sessões. Você terá a opção **SAVE** ao final de cada página e eu sugiro que a use (salve sempre, especialmente se sua internet não for das melhores, porque depois você poderá retornar ao site com o **application ID** que receberá logo no início e retomar de onde parou). Toda vez que salvar, verá a tela abaixo e poderá clicar em "continue application" para prosseguir.[![4](/images/4-300x244.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/4.png) 3. Você vai passar ileso pelas questões sobre seus dados pessoais, é claro. Então, na sessão de Travel Information, vai se deparar com uma que pergunta: **Quem está pagando a sua viagem??** Aqui, a dica é: confira seu DS-2019. Olhe no item "Program Sponsor" e veja quem está lá declarado como patrocinador. No meu caso, por exemplo, é a LASPAU, então eu preenchi esta tela assim:
 
-[![3](images/3.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/3.png)
+[![3](/images/3.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/3.png)
 
  
 
@@ -75,7 +75,7 @@ Bem, provavelmente não, mas talvez este post consiga esclarecer algumas dúvid
 
 Também acho, mas... fazer o quê. Explique sua zorra. Eu joguei o seguinte migué:
 
-[![job](images/job.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/job.png)
+[![job](/images/job.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/job.png)
 
 5\. Agora vem a sessão de que mais gosto. ❤ Security and Background ❤. Aqui, você basicamente terá que responder se é ou pretende ser terrorista, drogado\* ou prostituído, e coisas do gênero. Ah, eles também querem saber se você é amigo, filho, primo de 23º grau ou vizinho de algum terrorista, drogado ou prostituído.
 
@@ -83,13 +83,13 @@ Também acho, mas... fazer o quê. Explique sua zorra. Eu joguei o seguinte migu
 
 Dêem uma olhada em um trecho de uma das 5 (cinco) partes desta belezura:
 
-[![secutiry](images/secutiry.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/secutiry.png)
+[![secutiry](/images/secutiry.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/secutiry.png)
 
 É tentador, mas não responda Yes, tá bom? Eu mesma morri de curiosidade para saber se, ao responder Yes para esta última, por exemplo, iria aparecer um campo para eu colocar o meu nome de terrorista-ultra-secreta-que-estava-tentando-tirar-o-visto-para-os-EUA-pelos-meios-convencionais. Não testei pra saber. :(
 
 6\. Aí pronto, galera, mais alguns passos chatinhos e vocês chegarão na última sessão, a do SEVIS.
 
-[![SEVIS INFO FINAL DO DS160](images/SEVIS-INFO-FINAL-DO-DS160.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/SEVIS-INFO-FINAL-DO-DS160.png)
+[![SEVIS INFO FINAL DO DS160](/images/SEVIS-INFO-FINAL-DO-DS160.png)](http://www.abroaders.com.br/wp-content/uploads/2014/06/SEVIS-INFO-FINAL-DO-DS160.png)
 
 O SEVIS ID é o mesmo número que você encontrará no seu DS-2019, naquele canto superior direito. O Program Number está também no DS, neste mesmo formato que está na imagem acima. Agora, faltou a pergunta final!
 
@@ -117,7 +117,7 @@ Pronto para a última fase?
 
 ### **O CHEFÃO, só que não: O DIA DA ENTREVISTA**
 
-Veja a nota abaixo sobre **O QUE LEVAR NO DIA DA SUA ENTREVISTA.** Leve passaporte **original** e Ds-2019 também **original**, além de cópias de tudo. Também leve o comprovante de pagamento da taxa MRV e da SEVIS, e comprovante de agendamento dos seus horários com código de barras visível. ![what to take with you](images/what-to-take-with-you.png)Note que "any additional documents" podem incluir:
+Veja a nota abaixo sobre **O QUE LEVAR NO DIA DA SUA ENTREVISTA.** Leve passaporte **original** e Ds-2019 também **original**, além de cópias de tudo. Também leve o comprovante de pagamento da taxa MRV e da SEVIS, e comprovante de agendamento dos seus horários com código de barras visível. ![what to take with you](/images/what-to-take-with-you.png)Note que "any additional documents" podem incluir:
 
 > "extratos bancários, carta de aceite da universidade, carta da CAPES, passaportes velhos, documentos, e principalmente qualquer coisa que comprove que você tem vínculo com o Brasil e que seja um motivo para querer voltar para cá: certidão de nascimento/casamento, comprovante de endereço, contra-cheques, comprovantes de endereço de familiares que moram aqui (e se eles tiverem visto pros EUA, vale a pena levar uma cópia do passaporte deles também), carnês de IPTU/IPVA, título de eleitor... E como somos estudantes, vale levar comprovação de que você realmente sabe estudar: históricos e currículo acadêmico."
 
