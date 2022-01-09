@@ -4,7 +4,6 @@ date: "2014-04-24"
 categories: 
   - "primeiros-passos"
 published: true
-published: true
 ---
 
 [![Ciência Sem Fronteiras](images/csfronteiras.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/04/csfronteiras.jpg) **1.** Já imaginou um documento onde todas as informações pertinentes sobre o programa estão descritas lindamente especialmente para você? Sim? ELE EXISTE! Chama-se edital! Assim como todo concurso público, o programa Ciência sem Fronteiras tem um edital. Leia-o! Imprima! Cole do lado da sua cama! Decore-o! Muitas dúvidas poderão ser sanadas através dessa leitura e você ficará um pouco menos perdido durante o processo.
