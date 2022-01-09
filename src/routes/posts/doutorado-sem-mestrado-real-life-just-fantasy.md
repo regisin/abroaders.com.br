@@ -6,7 +6,9 @@ categories:
 published: true
 ---
 
- **[![Doutorado sem mestrado?](images/abroaders_boardgame1.jpg)](http://www.abroaders.com.br/wp-content/uploads/2014/04/abroaders_boardgame1.jpg) É possível ser aceito em um programa de doutorado no exterior se eu apenas tenho o diploma de bacharelado?**
+> É possível ser aceito em um programa de doutorado no exterior se eu apenas tenho o diploma de bacharelado?
+
+![Doutorado sem mestrado?](/images/abroaders_boardgame1.jpg)
 
 A resposta é curta: SIM, você pode; mas é claro que algumas exceções existem. Há muita confusão entre alunos de todo o mundo, principalmente brasileiros, que costumam acreditar que é obrigatório ter mestrado para obter o título de Doutor. Sabe de nada, inocente!
 
@@ -26,8 +28,8 @@ Veja bem, tentar um PhD direto apenas com a licenciatura ou bacharelado é poss�
 
 1. Excelente GPA (Grade Point Average)
 2. Boas cartas de recomendação
-3. Proficiência em Inglês comprovada através do [TOEFL](http://www.abroaders.com.br/principais-exames/)
-4. Pontuação expressiva no [GRE](http://www.abroaders.com.br/principais-exames/) (Graduate Record Examination)
+3. Proficiência em Inglês comprovada através do [TOEFL](http://www.abroaders.com.br/posts/principais-exames/)
+4. Pontuação expressiva no [GRE](http://www.abroaders.com.br/posts/principais-exames/) (Graduate Record Examination)
 5. Um marcante Statement of Purpose (SoP) descrevendo seus interesses acadêmicos e planos profissionais
 6. Quaisquer trabalhos publicados em revistas, anais de congressos e outros periódicos
 

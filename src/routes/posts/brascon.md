@@ -24,4 +24,4 @@ E você? Você pode apresentar seu trabalho oralmente ou como poster e de quebra
 
 Vem pra BRASCON você também! Vai ser dias 12 e 13 de março do ano que vem (provavelmente no seu Spring Break), na Harvard University. Inscrições pelo site [brasconference.org](http://www.brasconference.org/).
 
-Fique por dentro da BRASCON, siga a página no facebook: [BRASCON no Facebook](https://www.facebook.com/brasconference).
+Fique por dentro da BRASCON, siga a página no facebook: [BRASCON no Facebook](https://www.facebook.com/brasconference).

@@ -23,7 +23,7 @@ O que dizer sobre esse 1 ano estudando no exterior que passou tão rápido mas j
 
 Aqui na Tulane University eu preciso estar matriculada em 12 créditos por semestre para ser considerada aluna Full Time. Isso equivale a 4 matérias de 3 créditos. Então nesses 2 semestres eu completei 8 matérias, ou 24 créditos. Para me formar eu preciso completar 54 créditos, o que dará mais 2 semestres com 4 matérias cada e um outro semestre exclusivamente para Gross Anatomy. Para aqueles que não sabem eu estudo Physical Anthropology, com ênfase em Forensic Anthropology.
 
-\[caption id="" align="aligncenter" width="712"\]![](images/fstp_vs3.gif) Objeto do meu trabalho cursando Forensic Anthropology\[/caption\]
+![Objeto do meu trabalho cursando Forensic Anthropology](/images/fstp_vs3.gif)
 
 Além das 4 matérias cursadas eu também sou RA (Research Assistant). Ou seja, além de estudar para as minhas aulas diárias, eu também faço horas de pesquisa no laboratório. Se eu pudesse resumir os meus dias seria: chegar para as aulas as 9h e sair da Universidade as 17h, chegar em casa e continuar trabalhando. Obviamente esse é o MEU horário, isso varia muito dentre todos os alunos de outras Universidades e inclusive dentre meus próprios colegas de departamento. Eu, por exemplo, gosto de acordar cedo (5:30h) para afazeres saudáveis (leia-se ir para a academia para não virar uma bola), gosto de tirar uma soneca à tarde, e muitas vezes prefiro escrever projetos, papers e estudar a noite. Mas novamente, isso funciona pra mim, e cada um tem a sua maneira de se organizar ([para dicas de organizacao entre neste link](http://www.abroaders.com.br/sobrevivendo-ao-doutorado-exterior-dicas-para-gerenciar-o-seu-tempo/))
 
@@ -35,4 +35,4 @@ Vivendo em New Orleans o que não me falta são coisas para fazer. A cidade ferv
 
 **TL;DR:** Apesar de ter uma carga enorme de aulas, pesquisa e estudos, eu só tenho a agredecer por tudo o que aconteceu nesse 1 ano que passou. A quantidade de conhecimento que eu adquiri é imensurável e as minhas aulas, assim como pesquisas, foram extraordinárias. Mesmo com um calendário cheio de tarefas, preciso de um dia para relaxar, e ter um círculo de grandes amigos com certeza me ajudou nisso tudo.
 
-Logicamente, isso nunca seria possível sem a bolsa do [CsF](http://www.cienciasemfronteiras.gov.br/web/csf), e se você quer ter essa oportunidade, leia o nosso site e descubra o que fazer e como se preparar para se candidatar ao Doutorado.
+Logicamente, isso nunca seria possível sem a bolsa do [CsF](http://www.cienciasemfronteiras.gov.br/web/csf), e se você quer ter essa oportunidade, leia o nosso site e descubra o que fazer e como se preparar para se candidatar ao Doutorado.
