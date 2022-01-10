@@ -2,6 +2,7 @@
   export let items;
   export let path;
 </script>
+
 <header>
     <nav>
       {#each items as item}

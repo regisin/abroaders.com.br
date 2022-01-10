@@ -1,14 +1,16 @@
 ---
-title: "Doutorado sem Mestrado, is this the real life... is this just fantasy ?"
+title: "Doutorado sem Mestrado, is this the real life... is this just fantasy?"
+description: "É possível ser aceito em um programa de doutorado no exterior se eu apenas tenho o diploma de bacharelado?"
+author: "Magno Formiga, Ph.D."
 date: "2014-04-22"
 categories: 
   - "primeiros-passos"
 published: true
 ---
 
-> É possível ser aceito em um programa de doutorado no exterior se eu apenas tenho o diploma de bacharelado?
-
 ![Doutorado sem mestrado?](/images/abroaders_boardgame1.jpg)
+
+> É possível ser aceito em um programa de doutorado no exterior se eu apenas tenho o diploma de bacharelado?
 
 A resposta é curta: SIM, você pode; mas é claro que algumas exceções existem. Há muita confusão entre alunos de todo o mundo, principalmente brasileiros, que costumam acreditar que é obrigatório ter mestrado para obter o título de Doutor. Sabe de nada, inocente!
 
@@ -16,11 +18,11 @@ Na realidade, é até uma boa ideia aplicar para programas de doutorado logo ap�
 
 Para quem ainda está em dúvida sobre a veracidade desta informação, separei logo abaixo algumas instituições e programas onde candidatos podem aplicar sem o diploma de Mestre.
 
-\- [Graduate Admissions - Ohio State University](http://gradadmissions.osu.edu/gradresults.asp?permacun_current=0053&Submit2=Submit "Ohio State University")
+- [Graduate Admissions - Ohio State University](http://gradadmissions.osu.edu/gradresults.asp?permacun_current=0053&Submit2=Submit "Ohio State University")
 
-\- [Prospective Graduate Students - University of Washington](http://www.grad.washington.edu/admissions/prospective/ "University of Washington")
+- [Prospective Graduate Students - University of Washington](http://www.grad.washington.edu/admissions/prospective/ "University of Washington")
 
-\- [Prospective Students - Graduate School - University of Miami](http://www.miami.edu/gs/index.php/graduate_school/prospective_students/ "University of Miami")
+- [Prospective Students - Graduate School - University of Miami](http://www.miami.edu/gs/index.php/graduate_school/prospective_students/ "University of Miami")
 
 **O que as universidades esperam do aluno que aplica diretamente para o Doutorado?**
 
@@ -28,12 +30,12 @@ Veja bem, tentar um PhD direto apenas com a licenciatura ou bacharelado é poss�
 
 1. Excelente GPA (Grade Point Average)
 2. Boas cartas de recomendação
-3. Proficiência em Inglês comprovada através do [TOEFL](http://www.abroaders.com.br/posts/principais-exames/)
-4. Pontuação expressiva no [GRE](http://www.abroaders.com.br/posts/principais-exames/) (Graduate Record Examination)
+3. Proficiência em Inglês comprovada através do [TOEFL](/posts/principais-exames/)
+4. Pontuação expressiva no [GRE](/posts/principais-exames/) (Graduate Record Examination)
 5. Um marcante Statement of Purpose (SoP) descrevendo seus interesses acadêmicos e planos profissionais
 6. Quaisquer trabalhos publicados em revistas, anais de congressos e outros periódicos
 
-**\- "A Universidade é irredutível. Requer um mestrado e eu não tenho tempo e nem como fazê-lo"**
+> **A Universidade é irredutível. Requer um mestrado e eu não tenho tempo e nem como fazê-lo**
 
 Nem tudo está perdido! Vale a pena conversar com o professor que você tem contato na Universidade e também com os responsáveis pelo Graduate Department. É possível que, caso você tenha uma pós-graduação Latu Sensu, a Universidade considere o seu curso como equivalente ao Mestrado previamente requerido.
 

@@ -12,6 +12,7 @@
 
   import Hero from '$lib/components/Hero.svelte';
   import Header from '$lib/components/Header.svelte';
+  import Footer from '$lib/components/Footer.svelte';
 
   export let path;
 
@@ -38,4 +39,10 @@
   </div>
 </main>
 
-<footer></footer>
+<Footer
+  instagram="https://instagram.com/abroaders"
+  youtube="https://www.youtube.com/user/abroadersbr"
+  twitter="https://twitter.com/abroadersbr"
+  github="https://github.com/regisin/abroaders.com.br"
+  facebook="https://www.facebook.com/abroadersBR"
+/>
