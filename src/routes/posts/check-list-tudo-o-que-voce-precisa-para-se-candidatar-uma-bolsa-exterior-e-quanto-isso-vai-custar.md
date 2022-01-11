@@ -58,4 +58,4 @@ Nitidamente vemos uma grande diferença financeira entre aplicar por si só ou a
 
 Realmente é uma oportunidade que não dá pra perder. Então, abra o seu porquinho, guarde a sua mesada, deixe de sair durante alguns finais de semana, e foque no seu sonho!
 
-Quer saber quanto **você** vai gastar nesse processo? [Acesse aqui e faça o download completamente gratuito da nossa planilha personalizada de controle de gastos.](/files/ABROADERS-Controle-de-Gastos-Aplicação-Doutorado-nos-EUA.xlsx){rel="external"}
+Quer saber quanto **você** vai gastar nesse processo? [Acesse aqui e faça o download completamente gratuito da nossa planilha personalizada de controle de gastos.](/files/ABROADERS-Controle-de-Gastos-Aplicacao-Doutorado-nos-EUA.xlsx){rel="external"}
