@@ -1,6 +1,6 @@
 {
   ".svelte-kit/build/runtime/internal/start.js": {
-    "file": "start-5da7d648.js",
+    "file": "start-274ef0f3.js",
     "src": ".svelte-kit/build/runtime/internal/start.js",
     "isEntry": true,
     "imports": [
@@ -122,7 +122,7 @@
     ]
   },
   "src/routes/posts/check-list-tudo-o-que-voce-precisa-para-se-candidatar-uma-bolsa-exterior-e-quanto-isso-vai-custar.md": {
-    "file": "pages/posts/check-list-tudo-o-que-voce-precisa-para-se-candidatar-uma-bolsa-exterior-e-quanto-isso-vai-custar.md-b24e20c3.js",
+    "file": "pages/posts/check-list-tudo-o-que-voce-precisa-para-se-candidatar-uma-bolsa-exterior-e-quanto-isso-vai-custar.md-0f8717c3.js",
     "src": "src/routes/posts/check-list-tudo-o-que-voce-precisa-para-se-candidatar-uma-bolsa-exterior-e-quanto-isso-vai-custar.md",
     "isEntry": true,
     "isDynamicEntry": true,
