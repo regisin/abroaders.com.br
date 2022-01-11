@@ -34,7 +34,7 @@ Gisele e seu marido, no campus da Columbia University (NY). Ela merece!
 
 O importante não é apenas contar uma história, mas sim saber contá-la pra tirar máximo proveito dos seus pontos positivos.
 
-Ficou curioso sobre a SoP da Gisele?? Ela muito gentilmente disponibilizou o documento na íntegra! [**VEJA**](/files/SoP-Gisele.pdf "SoP da Gisele Ribeiro")
+Ficou curioso sobre a SoP da Gisele?? Ela muito gentilmente disponibilizou o documento na íntegra! [**VEJA**](/files/SoP-Gisele.pdf "SoP da Gisele Ribeiro"){rel="external"}
 
 **A: Sobre as suas notas nos exames requeridos (TOEFL e GRE), o que você acha que fez a diferença para ser selecionada em uma universidade de excelência?**
 

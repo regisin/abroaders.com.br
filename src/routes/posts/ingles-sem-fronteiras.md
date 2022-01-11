@@ -41,7 +41,7 @@ Para concorrerem a vaga nos cursos presenciais de inglês oferecidos pelo Núcle
 
 Quanto aos [**testes de proficiência**](/posts/principais-exames/ "Os principais exames exigidos para a sua pós-graduação no exterior"), alunos que se candidatem ao Programa Ciência sem Fronteiras ou outros programas da CAPES/CNPq que incluam o **TOEFL ITP** em seus editais **terão o direito de realizá-lo sem custo** (a data de aplicação desses testes também é divulgada pela instituição e pode ter o perfil de nivelamento ou de proficiência de acordo com o edital do CsF).
 
-*Observem que o TOEFL ITP é somente para candidatos à graduação sanduíche! Candidatos a alguma pós devem fazer o TOEFL IBT. Você pode saber mais sobre este último baixando o nosso [e-book](/files/Ebook-Exames.pdf) sobre exames.*
+*Observem que o TOEFL ITP é somente para candidatos à graduação sanduíche! Candidatos a alguma pós devem fazer o TOEFL IBT. Você pode saber mais sobre este último baixando o nosso [e-book](/files/Ebook-Exames.pdf){rel="external"} sobre exames.*
 
 Os interessados em se cadastrar no My English Online devem acessar [este site](http://myenglishonline.com.br) e preencher seus dados. Para mais informações acessem [o site do Programa Inglês sem Fronteiras](http://isf.mec.gov.br/ "Inglês sem Fronteiras"), lá vocês encontrarão o edital do programa com todas as informações necessárias de como participar.
 

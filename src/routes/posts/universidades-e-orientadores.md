@@ -90,9 +90,9 @@ Feito isso, separe todos os professores cujos interesses forem relevantes para s
 Esta tirinha ilustra de modo brilhante o processo de e-mails entre orientador e orientando... rs.
 ![Esta tirinha ilustra de modo brilhante o processo de e-mails entre orientador e orientando... rs](/images/edl-24funnies1-popup.jpg)
 
-Para facilitar a sua vida, criamos um [**documento com** **alguns exemplos de e-mails**](/files/Exemplos-de-e-mails-para-Contato.pdf) que mandamos em nossas próprias candidaturas (e que foram eficazes já que passamos, beijinho no ombro). Usem com sabedoria! Nada de CTRL C, CTRL V: agora você é um candidato a mestrado ou doutorado, ou seja: **agora, a coisa ficou séria.** Depois, baseado nas respostas de cada professor, você vai decidindo quais serão as universidades para onde vai se candidatar de fato, olhando quais são os requisitos de cada uma para o curso que você quer etc. Mas isso são outros 500!
+Para facilitar a sua vida, criamos um [**documento com** **alguns exemplos de e-mails**](/files/Exemplos-de-e-mails-para-Contato.pdf){rel="external"} que mandamos em nossas próprias candidaturas (e que foram eficazes já que passamos, beijinho no ombro). Usem com sabedoria! Nada de CTRL C, CTRL V: agora você é um candidato a mestrado ou doutorado, ou seja: **agora, a coisa ficou séria.** Depois, baseado nas respostas de cada professor, você vai decidindo quais serão as universidades para onde vai se candidatar de fato, olhando quais são os requisitos de cada uma para o curso que você quer etc. Mas isso são outros 500!
 
 **Continue ligado no Abroaders** que em breve chegaremos lá. ;)
 
-[![Exemplos de emails](/images/primeirosemails-1.jpg)](/files/Exemplos-de-e-mails-para-Contato.pdf)
+[![Exemplos de emails](/images/primeirosemails-1.jpg)](/files/Exemplos-de-e-mails-para-Contato.pdf){rel="external"}
 *Está esperando o quê? É só clicar e baixar os exemplos que preparamos para vocês!*
