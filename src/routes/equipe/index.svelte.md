@@ -5,7 +5,7 @@
 
 <Head
     title="Equipe"
-    description="Mentes inquietas compartilhando experiências para ajudar você que deseja estudar no exterior"/>
+    description="Mentes inquietas compartilhando experiências para ajudar você que deseja estudar no exterior"></Head>
 
 
 # Equipe
