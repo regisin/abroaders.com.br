@@ -10,6 +10,8 @@
 
 # Equipe
 
+<div>
+
 <Member
     name="Karin Calvinho, Ph.D."
     picture="/images/equipe/karin.png"
@@ -26,6 +28,7 @@
     name="Paulo Alexandre Regis, Ph.D."
     picture="/images/equipe/paulo.png"
     affiliation="Southeastern Louisiana University"
+    url="https://paregis.me"
     bio="Saving word documents."/>
 
 <Member
@@ -75,3 +78,11 @@
     picture="/images/equipe/paty.png"
     affiliation="University of Virginia"
     bio="Saving housing."/>
+
+</div>
+
+<style lang="postcss" global>
+    :local(div) {
+        @apply container container max-w-xl m-auto flex flex-wrap flex-col md:flex-row items-center justify-start;
+    }
+</style>

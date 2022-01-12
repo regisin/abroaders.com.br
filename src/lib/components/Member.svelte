@@ -6,11 +6,41 @@
     export let affiliation;
 </script>
 
-<img src="{picture}" alt="{name}" />
-{#if url}
-    <h2><a href="{url}">{name}</a></h2>
-{:else}
-    <h2>{name}</h2>
-{/if}
-<h3>{affiliation}</h3>
-<p>{bio}</p>
+
+<div id="card">
+    <center>
+        <img src="{picture}" alt="{name}">
+        <div id="info">
+            <div>
+                {#if url}
+                <a href="{url}">{name}</a>
+                {:else}
+                {name}
+                {/if}
+                <p>{affiliation}</p>
+            </div>
+            <p id="bio">{bio}</p>
+        </div>
+    </center>
+</div>
+
+<style lang="postcss" global>
+    :local(#card) {
+        @apply w-72;
+    }
+    :local(img) {
+        @apply rounded-full m-0 p-0;
+    }
+    :local(#info) {
+        @apply bg-white p-0 m-0;
+    }
+    :local(#info) :local(div) {
+        @apply p-0 m-0;
+    }
+    :local(#info) :local(p) {
+        @apply text-gray-500 text-center m-0;
+    }
+    :local(#bio) {
+        @apply font-thin;
+    }
+</style>
