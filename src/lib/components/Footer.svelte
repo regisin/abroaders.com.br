@@ -152,7 +152,7 @@
         @apply flex justify-center bg-white border-t border-t-slate-200 py-4;
     }
     :local(footer) :local(a) {
-        @apply m-4;
+        @apply hover:opacity-70 m-4;
     }
     :local(footer) :local(a) :local(svg) {
         @apply w-6;
