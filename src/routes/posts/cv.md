@@ -100,7 +100,7 @@ Aqui você pode incluir no seu currículo qualquer outra experiência relevante,
 
 > Parece difícil, hein? Não tem uns prontos aí para dar uma luz?
 
-Mas é claro, jovem! Já pensamos nisso. Veja [aqui](/files/Exemplos-de-currículos-bem-sucedidos.pdf) alguns exemplos de currículos bem-sucedidos para lhe inspirar e ajudar a elaborar o seu próprio. Abroaders é amor.
+Mas é claro, jovem! Já pensamos nisso. Veja [aqui](/files/Exemplos-de-currículos-bem-sucedidos.pdf){rel="external"} alguns exemplos de currículos bem-sucedidos para lhe inspirar e ajudar a elaborar o seu próprio. Abroaders é amor.
 
 Por fim, uma última dica: assim que terminar, passe um corretor ortográfico, leia de novo algumas vezes e **peça para algum falante nativo dar uma lida** - não só para corrigir a gramática, mas também o estilo, para tentar deixar o texto o mais natural possível. Tome muito cuidado com o Google Tradutor, prefira alguns sites que traduzem expressões em contextos específicos, como o [Linguee](http://www.linguee.com.br/ "linguee"). Em caso de dúvida sobre algum termo específico da área, melhor consultar um especialista.
 
