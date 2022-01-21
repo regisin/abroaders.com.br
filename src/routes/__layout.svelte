@@ -10,32 +10,38 @@
 <script>
   import "../app.css";
 
-  import Hero from '$lib/components/Hero.svelte';
-  import Header from '$lib/components/Header.svelte';
-  import Footer from '$lib/components/Footer.svelte';
+  import Hero from "$lib/components/Hero.svelte";
+  import Header from "$lib/components/Header.svelte";
+  import Footer from "$lib/components/Footer.svelte";
 
   export let path;
 
   const hero = {
-      title: "Abroaders",
-      url: "/images/equipe/logoaBR.png"
-  }
+    title: "Abroaders",
+    url: "/images/equipe/logoaBR.png",
+  };
   const items = [
-      {title: "Home", url: "/"},
-      {title: "Sobre", url: "/sobre"},
-      {title: "Equipe", url: "/equipe"},
-      {title: "Contato", url: "/contato"},
-      {title: "Calculadore de GPA", url: "/gpa"}
-  ]
+    { title: "Home", url: "/" },
+    { title: "Sobre", url: "/sobre" },
+    { title: "Equipe", url: "/equipe" },
+    { title: "Contato", url: "/contato" },
+    { title: "Calculadore de GPA", url: "/gpa" },
+  ];
 </script>
 
-<Hero {hero}/>
-<Header {items} {path} />
+<svelte:head>
+  <script
+    async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3332206651278842"
+    crossorigin="anonymous"></script>
+</svelte:head>
 
+<Hero {hero} />
+<Header {items} {path} />
 
 <main>
   <div class="prose">
-      <slot />
+    <slot />
   </div>
 </main>
 
