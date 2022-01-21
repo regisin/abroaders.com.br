@@ -1,5 +1,7 @@
 ---
 title: "O Prostituto de Universidades: conheça a história de Marcelo Leitão e suas candidaturas a pós-graduação no exterior"
+description: "Ele se inscreveu para dois mestrados, um doutorado e um mestrado profissional, em três países diferentes, em quatro universidades, de uma só vez. Ganhou o apelido peculiar de Prostituto de Universidades e quase foi acusado de vender a alma ao Diabo. Quer saber no que deu? Com vocês, Marcelo Leitão, o arquiteto cearense que gosta de viver fortes emoções!"
+author: "Fernanda Cruz Rios-Ford, Ph.D."
 date: "2014-05-23"
 categories: 
   - "entrevistas"
@@ -22,19 +24,21 @@ tags:
 published: true
 ---
 
-Ele se inscreveu para dois mestrados, um doutorado e um mestrado profissional, em três países diferentes, em quatro universidades, de uma só vez. Ganhou o apelido peculiar de Prostituto de Universidades e quase foi acusado de vender a alma ao Diabo. Quer saber no que deu? **Com vocês, Marcelo Leitão, o arquiteto cearense que gosta de viver fortes emoções!**
+> Ele se inscreveu para dois mestrados, um doutorado e um mestrado profissional, em três países diferentes, em quatro universidades, de uma só vez. Ganhou o apelido peculiar de Prostituto de Universidades e quase foi acusado de vender a alma ao Diabo. Quer saber no que deu? **Com vocês, Marcelo Leitão, o arquiteto cearense que gosta de viver fortes emoções!**
 
-Desde o começo da minha graduação eu já tinha uma certeza: “eu quero estudar fora!”... Mas como eu conseguiria isso? Essa era a grande pergunta! Um dia eu parei e percebi que conhecia várias pessoas bem mais capacitadas do que eu, com um currículo e desempenho exemplar, mas pela falta de um simples quesito, **a proficiência em uma língua estrangeira**, não tinham nem chances de ao menos de participar de um processo seletivo. Logo, desde o inicio da minha graduação eu busquei aprender o máximo possível, pois cada língua é um leque de oportunidades que se abre na sua vida!
+Desde o começo da minha graduação eu já tinha uma certeza: "eu quero estudar fora!"... Mas como eu conseguiria isso? Essa era a grande pergunta! Um dia eu parei e percebi que conhecia várias pessoas bem mais capacitadas do que eu, com um currículo e desempenho exemplar, mas pela falta de um simples quesito, **a proficiência em uma língua estrangeira**, não tinham nem chances de ao menos de participar de um processo seletivo. Logo, desde o inicio da minha graduação eu busquei aprender o máximo possível, pois cada língua é um leque de oportunidades que se abre na sua vida!
 
 ![Marcelo em Wisconsin, nos EUA, durante seu intercâmbio!](/images/576667_10151493157599424_1347545866_n.jpg)
 
 Após finalizar a minha graduação e ainda com foco nesse objetivo, tomei uma decisão difícil e fui contra todos os “bons conselhos”: **larguei tudo no Brasil e fui para o exterior** em busca de proficiência em alguma língua. Um ano depois, Maio de 2013, retorno ao Brasil, mas com planos de aplicar apenas no ano seguinte (em 2014 para ir no ano de 2015). Senti que ainda não estava pronto, que precisava pesquisar mais sobre o assunto, ganhar experiência e outras coisas… Até receber a ligação de um professor da faculdade.
 
-> “Marcelo, tudo bem? Faz dois meses que estou tentando falar com você e não consigo. Precisamos resolver a sua pós-graduação!” falou o meu professor.
+> Marcelo, tudo bem? Faz dois meses que estou tentando falar com você e não consigo. Precisamos resolver a sua pós-graduação!
 
-Confesso que naquele momento eu me animei bastante!, Mas logo em seguida bateu o medo e o sentimento “não estou preparado”. Conversei mais um pouco com o meu professor e acabei seguindo o seu conselho:
+Falou o meu professor.
 
-> “Você já tem toda a documentação? Tente, pois na pior das hipóteses, você ganhará pelo menos a experiência.”
+Confesso que naquele momento eu me animei bastante!, Mas logo em seguida bateu o medo e o sentimento "não estou preparado". Conversei mais um pouco com o meu professor e acabei seguindo o seu conselho:
+
+> Você já tem toda a documentação? Tente, pois na pior das hipóteses, você ganhará pelo menos a experiência.
 
 E assim eu o fiz. **Quase nos 45 minutos do segundo tempo (Agosto/2013) eu resolvi tentar**, e se era para tentar, que fosse para valer a pena. Apliquei para 4 bolsas de estudos e a partir daquele momento eu estava mais conhecido entre meus amigos como “prostituto de universidade”: a que pagasse, eu iria! As bolsas foram:
 
@@ -43,11 +47,9 @@ E assim eu o fiz. **Quase nos 45 minutos do segundo tempo (Agosto/2013) eu resol
 - Mestrado na Inglaterra pelo Consulado Britânico (Bolsa Chevening)
 - Mestrado Profissional nos Estados Unidos pelo Ciências Sem Fronteiras Capes/IIE
 
-Foi um processo longo e bem estressante. **Administrar uma candidatura de bolsa de estudos é difícil, imagina quatro**? Devo ter sofrido alguns pequenos infartos no processo, mas sobrevivi e agora é só felicidade! (ops, spoiler). Todos os processos foram simultâneos, mas para facilitar, o processo, contarei em tópicos individuais:
+Foi um processo longo e bem estressante. **Administrar uma candidatura de bolsa de estudos é difícil, imagina quatro**? Devo ter sofrido alguns pequenos infartos no processo, mas sobrevivi e agora é só felicidade! (ops, spoiler). Todos os processos foram simultâneos, mas para facilitar, o processo, contarei em tópicos individuais
 
- 
-
-**1\. PhD nos Estados Unidos pelo Ciências sem Fronteiras Capes/Laspau**
+## PhD nos Estados Unidos pelo Ciências sem Fronteiras Capes/Laspau
 
 Esta bolsa era (o que eu achava ser) o meu sonho. Foi o processo mais longo, caro e estressante, mas certamente o que me deu experiência para obter sucesso nos outros. **As principais dificuldades no inicio foram a falta de informação e o tempo curto para finalizar tudo**. Eu tinha menos de 1 mês para juntar toda a papelada, traduzir documentos, escrever plano de estudos e descobrir o que era o GRE, mas graças a ajuda de alguns santos (dentre eles estão alguns dos integrantes da equipe Abroaders) eu consegui enviar tudo a tempo.
 
@@ -61,20 +63,19 @@ Algumas semanas depois **eu recebi a carta de concessão da bolsa**! Foi um alí
 
 E para finalizar, **fui aceito na Texas A&M**! Mas, em meio a toda essa supressa, só me restavam dúvidas: Estou preparado para um Doutorado direto da graduação? Texas A&M não tem foco na minha área, vale a pena? Onde eu fui arrumar esse sonho?
 
-> No final das contas, **acabei negando a oferta e abri mão da bolsa de Doutorado** direto. O PhD é uma coisa muito séria, que exige muita dedicação e não valeria a pena fazer “de qualquer jeito”. Foi uma decisão bem difícil, pois até aquele momento eu não tinha nenhuma garantia de outra bolsa ou aceite de universidade, mas era o mais certo a ser feito.
+No final das contas, **acabei negando a oferta e abri mão da bolsa de Doutorado** direto. O PhD é uma coisa muito séria, que exige muita dedicação e não valeria a pena fazer “de qualquer jeito”. Foi uma decisão bem difícil, pois até aquele momento eu não tinha nenhuma garantia de outra bolsa ou aceite de universidade, mas era o mais certo a ser feito.
 
 A grande lição de tudo isso foi que sim, é possível conseguir a tal “lenda do doutorado sem mestrado”, mas nem sempre isso será o melhor para você! E como conselho, **mesmo sem ter certeza do que você quer, tente e depois que você tiver o aceite você decide.**
 
- 
-
-**2\. Mestrado em Arquitetura na Alemanha pelo DAAD**
+## Mestrado em Arquitetura na Alemanha pelo DAAD
 
 Quando eu me candidatei a essa bolsa eu estava me achando, crente que ia conseguir! Tinha tudo para dar certo, pois ela era exclusiva para arquitetura, e **muitas pessoas por acreditarem que precisa falar alemão, deixam de tentar, reduzindo ainda mais a concorrência**. O processo foi bem simples e de fase única. Mandei um pacote de 3kg de papel pro DAAD no Rio de Janeiro, que seria reencaminhado para Colônia, na Alemanha.. depois disso era só sentar e esperar. Até que um dia recebi uma ligação da minha mãe:
 
-> “Filho, chegou aqui uma carta de um tal de DAAD para você..”
-> “Mãe, isso é a resposta da minha bolsa! O pior é que não adianta nem eu pedir para abrir, pois a senhora não entenderá nada...”
+> Filho, chegou aqui uma carta de um tal de DAAD para você..
 
-Momentos de tensão até eu chegar em casa e ler um educado “Nein, nein, nein!”
+> Mãe, isso é a resposta da minha bolsa! O pior é que não adianta nem eu pedir para abrir, pois a senhora não entenderá nada...
+
+Momentos de tensão até eu chegar em casa e ler um educado "Nein, nein, nein!"
 
 Moral da história: Sabe de nada, inocente!
 
@@ -82,9 +83,7 @@ PS.: Foram 341 candidatos do mundo todo e 37 selecionados.
 
 ![Marcelo, na Alemanha. Existem muitos muros a desconstruir, diz a frase no muro (segundo ele, é claro, eu não falo alemão! rs)](/images/existem-mtos-muros-a-desconstruir.jpg)
 
-Marcelo, na Alemanha. "Existem muitos muros a desconstruir", diz a frase no muro (segundo ele, é claro, eu não falo alemão! rs)
-
-**3\. Mestrado na Inglaterra pelo Consulado Britânico (Bolsa Chevening)**
+## Mestrado na Inglaterra pelo Consulado Britânico (Bolsa Chevening)
 
 Eu fiquei sabendo dessa bolsa de estudos bem em cima do _deadline_, algo como um pouco mais de uma semana antes, mas como o processo é todo on-line, bem simples e eu já tinha toda a documentação, **por que não tentar?** Estudar na _Bartlet School - University College of London_ era um sonho e eu jamais pensei que teria essa oportunidade um dia. A bolsa é extremamente concorrida, algo como 28 mil candidaturas no mundo inteiro, aproximadamente 3 mil só no Brasil. Comparando com a bolsa da do DAAD, só um milagre para eu conseguir!
 
@@ -94,7 +93,7 @@ Segui para a segunda fase, fui para uma entrevista em Recife, consegui o aceite 
 
 *Na próxima semana, o Marcelo disponibilizará para os integrantes do #teamAbroaders (vocês, rs) a sua Statement of Purpose e a Personal History, documentos que teve que redigir para as suas candidaturas! Teremos um post sobre SoP com vídeo e exemplos para baixar. Não percam!*
 
-**4\. Mestrado Profissional nos Estados Unidos pelo Ciências Sem Fronteiras Capes/IIE**
+## Mestrado Profissional nos Estados Unidos pelo Ciências Sem Fronteiras Capes/IIE
 
 Depois de todos os processos seletivos, este que eu julgava ser meu coringa, acabou sendo meu “Ás”! A bolsa de estudos foi ofertada nas últimas e claro, **eu já tinha toda a documentação. Eu passava nos requisitos mínimos por pouco, mas passava! Fiz toda a burocracia e depois de alguns meses, lá estava meu nome na lista.** Para ter um pouco de emoção, a lista foi revisada e algumas pessoas saíram dela, mas meu coração já estava acostumado e meu nome seguia na segunda lista. O que dificultou foi o atraso no processo e com isso, pouquíssimas universidades ainda estavam aceitando candidaturas.
 
