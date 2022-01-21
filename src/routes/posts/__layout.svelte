@@ -22,10 +22,6 @@
 	export let post;
 </script>
 
-<svelte:head>
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.0/dist/katex.min.css">
-</svelte:head>
-
 <Head title={post.title} description={post.description} />
 
 <ArticleTitle title={post.title} />
