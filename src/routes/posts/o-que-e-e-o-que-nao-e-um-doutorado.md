@@ -1,5 +1,7 @@
 ---
 title: "O que é (e o que não é) um doutorado!?"
+description: ""
+author: ""
 date: "2016-07-04"
 categories: 
   - "durante-o-phd"

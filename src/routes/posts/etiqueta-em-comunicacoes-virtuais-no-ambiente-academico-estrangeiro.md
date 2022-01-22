@@ -1,5 +1,7 @@
 ---
 title: "Etiqueta em comunicações virtuais no ambiente acadêmico estrangeiro"
+description: ""
+author: ""
 date: "2015-06-01"
 categories: 
   - "primeiros-passos"

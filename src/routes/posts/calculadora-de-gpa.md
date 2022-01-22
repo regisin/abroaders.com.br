@@ -1,5 +1,7 @@
 ---
 title: "Calculadora de GPA. De nada!"
+description: "Ladies and gentlemen. Tenho o prazer de apresentar a incrível, estupenda, fenomenal Calculadora de GPA Tabajara, ops, do Abroaders! Mais uma vez facilitamos a sua vida e disponibilizamos a calculadora logo aqui em cima, na barra superior do site."
+author: "Patrícia Basile, Ph.D."
 date: "2014-06-26"
 categories: 
   - "primeiros-passos"
@@ -20,7 +22,7 @@ Tenho o prazer de apresentar a incrível, estupenda, fenomenal Calculadora de GP
 
 ![Calculadora GPA](/images/calculadora.png)]
 
-OBS.: Se você ainda não sabe o que é GPA, volte duas casas e leia esse excelente [post](http://www.abroaders.com.br/gpa-estudar-fora/) escrito pela Mel que explica direitinho o que é essa peste.
+OBS.: Se você ainda não sabe o que é GPA, volte duas casas e leia esse excelente [post](/posts/gpa-estudar-fora/) escrito pela Mel que explica direitinho o que é essa peste.
 
 Usar a calculadora é muito simples. Se você sabe ler, não terá problemas para preencher. Me sinto didática hoje então darei um mini tutorial de qualquer forma.
 

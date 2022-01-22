@@ -1,5 +1,7 @@
 ---
 title: "Conheça a BRASCON, conferência voltada para estudantes brasileiros nos EUA"
+description: ""
+author: ""
 date: "2016-01-26"
 categories: 
   - "durante-o-phd"

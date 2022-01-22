@@ -1,5 +1,7 @@
 ---
 title: "1 ano no exterior, o que aconteceu até aqui?"
+description: ""
+author: ""
 date: "2015-05-21"
 categories: 
   - "depoimentos"

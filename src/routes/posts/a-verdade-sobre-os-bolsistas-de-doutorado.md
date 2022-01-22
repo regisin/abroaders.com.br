@@ -1,5 +1,7 @@
 ---
 title: "Turismo sem Fronteiras? A verdade sobre os bolsistas de doutorado"
+description: ""
+author: ""
 date: "2016-07-03"
 categories: 
   - "durante-o-phd"

@@ -1,5 +1,7 @@
 ---
 title: "Bolsistas de doutorado no exterior aguardam decisão da Capes há mais de cinquenta dias e podem ficar sem recursos para necessidades básicas"
+description: ""
+author: ""
 date: "2016-06-18"
 categories: 
   - "durante-o-phd"

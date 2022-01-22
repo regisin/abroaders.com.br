@@ -1,12 +1,16 @@
 ---
 title: "O Abroaders está em manutenção!"
+description: "Durante os próximos dias estaremos fazendo manutenção nos servidores do Abroaders!"
+author: "Equipe Abroaders"
 date: "2018-01-11"
 published: true
 ---
 
 Durante os próximos dias estaremos fazendo manutenção nos servidores do Abroaders!
 
-**O que isso quer dizer você perguntou?**
+> O que isso quer dizer?
+
+*Você perguntou.*
 
 Bom, o conteúdo esta ai e não vai sofrer alterações, porém o tempo pra carregar o site pode ser afetado.
 

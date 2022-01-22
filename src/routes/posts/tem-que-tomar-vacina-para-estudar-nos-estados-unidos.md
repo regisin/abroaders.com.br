@@ -1,5 +1,7 @@
 ---
 title: "Tem que tomar vacina para estudar nos Estados Unidos?"
+description: ""
+author: ""
 date: "2014-10-18"
 categories: 
   - "passos-pos-aceites"

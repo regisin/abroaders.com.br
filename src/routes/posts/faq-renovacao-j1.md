@@ -1,5 +1,7 @@
 ---
 title: "FAQ renovação J1"
+description: ""
+author: ""
 date: "2015-10-10"
 categories: 
   - "durante-o-phd"

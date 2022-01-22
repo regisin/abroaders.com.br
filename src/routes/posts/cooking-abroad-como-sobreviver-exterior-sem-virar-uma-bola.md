@@ -1,5 +1,7 @@
 ---
 title: "Cooking Abroad: como estudar no exterior sem virar uma bola"
+description: ""
+author: ""
 date: "2014-09-17"
 categories: 
   - "cooking-abroad"
