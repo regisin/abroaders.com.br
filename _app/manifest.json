@@ -1,6 +1,6 @@
 {
   ".svelte-kit/build/runtime/internal/start.js": {
-    "file": "start-73171904.js",
+    "file": "start-117d3b86.js",
     "src": ".svelte-kit/build/runtime/internal/start.js",
     "isEntry": true,
     "imports": [
@@ -92,12 +92,15 @@
     ]
   },
   "src/routes/contato/index.svelte.md": {
-    "file": "pages/contato/index.svelte.md-2afebe30.js",
+    "file": "pages/contato/index.svelte.md-44c62423.js",
     "src": "src/routes/contato/index.svelte.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-f2db844d.js"
+    ],
+    "css": [
+      "assets/pages/contato/index.svelte.md-17a359b9.css"
     ]
   },
   "src/routes/equipe/index.svelte.md": {
@@ -134,7 +137,7 @@
     ]
   },
   "src/routes/posts/passei-em-muitas-como-escolher-criterios-na-hora-de-escolher-universidade-apos-aprovacao.md": {
-    "file": "pages/posts/passei-em-muitas-como-escolher-criterios-na-hora-de-escolher-universidade-apos-aprovacao.md-eaba4dc3.js",
+    "file": "pages/posts/passei-em-muitas-como-escolher-criterios-na-hora-de-escolher-universidade-apos-aprovacao.md-4cf16da2.js",
     "src": "src/routes/posts/passei-em-muitas-como-escolher-criterios-na-hora-de-escolher-universidade-apos-aprovacao.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -152,7 +155,7 @@
     ]
   },
   "src/routes/posts/etiqueta-em-comunicacoes-virtuais-no-ambiente-academico-estrangeiro.md": {
-    "file": "pages/posts/etiqueta-em-comunicacoes-virtuais-no-ambiente-academico-estrangeiro.md-894e5e8e.js",
+    "file": "pages/posts/etiqueta-em-comunicacoes-virtuais-no-ambiente-academico-estrangeiro.md-7bf91a0e.js",
     "src": "src/routes/posts/etiqueta-em-comunicacoes-virtuais-no-ambiente-academico-estrangeiro.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -161,7 +164,7 @@
     ]
   },
   "src/routes/posts/sobrevivendo-ao-doutorado-exterior-dicas-para-gerenciar-o-seu-tempo.md": {
-    "file": "pages/posts/sobrevivendo-ao-doutorado-exterior-dicas-para-gerenciar-o-seu-tempo.md-405e50cf.js",
+    "file": "pages/posts/sobrevivendo-ao-doutorado-exterior-dicas-para-gerenciar-o-seu-tempo.md-7bd3a3f7.js",
     "src": "src/routes/posts/sobrevivendo-ao-doutorado-exterior-dicas-para-gerenciar-o-seu-tempo.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -179,7 +182,7 @@
     ]
   },
   "src/routes/posts/cooking-abroad-como-sobreviver-exterior-sem-virar-uma-bola.md": {
-    "file": "pages/posts/cooking-abroad-como-sobreviver-exterior-sem-virar-uma-bola.md-87fe909f.js",
+    "file": "pages/posts/cooking-abroad-como-sobreviver-exterior-sem-virar-uma-bola.md-c03c3a30.js",
     "src": "src/routes/posts/cooking-abroad-como-sobreviver-exterior-sem-virar-uma-bola.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -188,7 +191,7 @@
     ]
   },
   "src/routes/posts/tem-que-tomar-vacina-para-estudar-nos-estados-unidos.md": {
-    "file": "pages/posts/tem-que-tomar-vacina-para-estudar-nos-estados-unidos.md-9db54b5c.js",
+    "file": "pages/posts/tem-que-tomar-vacina-para-estudar-nos-estados-unidos.md-7b41ef3d.js",
     "src": "src/routes/posts/tem-que-tomar-vacina-para-estudar-nos-estados-unidos.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -206,7 +209,7 @@
     ]
   },
   "src/routes/posts/e-agora-voltamos-a-nossa-programacao-normal.md": {
-    "file": "pages/posts/e-agora-voltamos-a-nossa-programacao-normal.md-21c5f981.js",
+    "file": "pages/posts/e-agora-voltamos-a-nossa-programacao-normal.md-384ae2e3.js",
     "src": "src/routes/posts/e-agora-voltamos-a-nossa-programacao-normal.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -215,7 +218,7 @@
     ]
   },
   "src/routes/posts/1-ano-no-exterior-o-que-aconteceu-ate-aqui.md": {
-    "file": "pages/posts/1-ano-no-exterior-o-que-aconteceu-ate-aqui.md-d8146ead.js",
+    "file": "pages/posts/1-ano-no-exterior-o-que-aconteceu-ate-aqui.md-2ddd3914.js",
     "src": "src/routes/posts/1-ano-no-exterior-o-que-aconteceu-ate-aqui.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -224,7 +227,7 @@
     ]
   },
   "src/routes/posts/a-verdade-sobre-os-bolsistas-de-doutorado.md": {
-    "file": "pages/posts/a-verdade-sobre-os-bolsistas-de-doutorado.md-bc7172fa.js",
+    "file": "pages/posts/a-verdade-sobre-os-bolsistas-de-doutorado.md-19babce0.js",
     "src": "src/routes/posts/a-verdade-sobre-os-bolsistas-de-doutorado.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -233,7 +236,7 @@
     ]
   },
   "src/routes/posts/o-que-e-e-o-que-nao-e-um-doutorado.md": {
-    "file": "pages/posts/o-que-e-e-o-que-nao-e-um-doutorado.md-2d9bf088.js",
+    "file": "pages/posts/o-que-e-e-o-que-nao-e-um-doutorado.md-a9c9c722.js",
     "src": "src/routes/posts/o-que-e-e-o-que-nao-e-um-doutorado.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -242,7 +245,7 @@
     ]
   },
   "src/routes/posts/grads-003-carta-de-recomendacao.md": {
-    "file": "pages/posts/grads-003-carta-de-recomendacao.md-105e5658.js",
+    "file": "pages/posts/grads-003-carta-de-recomendacao.md-3d3a877d.js",
     "src": "src/routes/posts/grads-003-carta-de-recomendacao.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -251,7 +254,7 @@
     ]
   },
   "src/routes/posts/phd-csf-laspau-2015-for-dummies.md": {
-    "file": "pages/posts/phd-csf-laspau-2015-for-dummies.md-3177a5c6.js",
+    "file": "pages/posts/phd-csf-laspau-2015-for-dummies.md-1466bfe5.js",
     "src": "src/routes/posts/phd-csf-laspau-2015-for-dummies.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -260,7 +263,7 @@
     ]
   },
   "src/routes/posts/grads-001-situacao-do-processo.md": {
-    "file": "pages/posts/grads-001-situacao-do-processo.md-6c76b340.js",
+    "file": "pages/posts/grads-001-situacao-do-processo.md-3617f82a.js",
     "src": "src/routes/posts/grads-001-situacao-do-processo.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -269,7 +272,7 @@
     ]
   },
   "src/routes/posts/o-abroaders-esta-em-manutencao.md": {
-    "file": "pages/posts/o-abroaders-esta-em-manutencao.md-87a6a581.js",
+    "file": "pages/posts/o-abroaders-esta-em-manutencao.md-5f9542c7.js",
     "src": "src/routes/posts/o-abroaders-esta-em-manutencao.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -278,7 +281,7 @@
     ]
   },
   "src/routes/posts/webinar-orientacao-pre-partida.md": {
-    "file": "pages/posts/webinar-orientacao-pre-partida.md-4bc3d836.js",
+    "file": "pages/posts/webinar-orientacao-pre-partida.md-a15ef9b5.js",
     "src": "src/routes/posts/webinar-orientacao-pre-partida.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -314,7 +317,7 @@
     ]
   },
   "src/routes/posts/carta-de-recomendacao.md": {
-    "file": "pages/posts/carta-de-recomendacao.md-8548f59c.js",
+    "file": "pages/posts/carta-de-recomendacao.md-4e79b39e.js",
     "src": "src/routes/posts/carta-de-recomendacao.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -332,7 +335,7 @@
     ]
   },
   "src/routes/posts/statement-of-purpose.md": {
-    "file": "pages/posts/statement-of-purpose.md-8d7e5552.js",
+    "file": "pages/posts/statement-of-purpose.md-0252d649.js",
     "src": "src/routes/posts/statement-of-purpose.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -341,7 +344,7 @@
     ]
   },
   "src/routes/posts/visto-j1-para-os-eua.md": {
-    "file": "pages/posts/visto-j1-para-os-eua.md-cd7f04ae.js",
+    "file": "pages/posts/visto-j1-para-os-eua.md-59e04064.js",
     "src": "src/routes/posts/visto-j1-para-os-eua.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -359,7 +362,7 @@
     ]
   },
   "src/routes/posts/calculadora-de-gpa.md": {
-    "file": "pages/posts/calculadora-de-gpa.md-bdb2ec25.js",
+    "file": "pages/posts/calculadora-de-gpa.md-b7aa1e15.js",
     "src": "src/routes/posts/calculadora-de-gpa.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -386,7 +389,7 @@
     ]
   },
   "src/routes/posts/faq-renovacao-j1.md": {
-    "file": "pages/posts/faq-renovacao-j1.md-8c5858da.js",
+    "file": "pages/posts/faq-renovacao-j1.md-cdac6c3c.js",
     "src": "src/routes/posts/faq-renovacao-j1.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -404,7 +407,7 @@
     ]
   },
   "src/routes/posts/grads-002-siglas.md": {
-    "file": "pages/posts/grads-002-siglas.md-414988e9.js",
+    "file": "pages/posts/grads-002-siglas.md-7ddbbf1d.js",
     "src": "src/routes/posts/grads-002-siglas.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -422,7 +425,7 @@
     ]
   },
   "src/routes/posts/descaso-capes.md": {
-    "file": "pages/posts/descaso-capes.md-b6b05e1c.js",
+    "file": "pages/posts/descaso-capes.md-cab0b9c9.js",
     "src": "src/routes/posts/descaso-capes.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -431,7 +434,7 @@
     ]
   },
   "src/routes/posts/gre-detonado.md": {
-    "file": "pages/posts/gre-detonado.md-6758cbf4.js",
+    "file": "pages/posts/gre-detonado.md-039c6f43.js",
     "src": "src/routes/posts/gre-detonado.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -449,7 +452,7 @@
     ]
   },
   "src/routes/posts/brascon.md": {
-    "file": "pages/posts/brascon.md-9e2a8201.js",
+    "file": "pages/posts/brascon.md-22136d8a.js",
     "src": "src/routes/posts/brascon.md",
     "isEntry": true,
     "isDynamicEntry": true,
