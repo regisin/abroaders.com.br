@@ -1,7 +1,7 @@
 ---
 title: "O que é (e o que não é) um doutorado!?"
-description: ""
-author: ""
+description: "Recebemos muitas perguntas sobre como é a experiência de fazer um doutorado, como é a rotina, demandas de trabalho, etc. Esse post é uma tentativa de responder tais dúvidas e esclarecer de vez o que é e o que não é um doutorado no exterior."
+author: "Patrícia Basile, Ph.D."
 date: "2016-07-04"
 categories: 
   - "durante-o-phd"
@@ -19,21 +19,19 @@ tags:
 published: true
 ---
 
-Recebemos muitas perguntas sobre como é a experiência de fazer um doutorado, como é a rotina, demandas de trabalho, etc. Esse post é uma tentativa de responder tais dúvidas e esclarecer de vez o que é e o que não é um doutorado no exterior.
+Recebemos muitas perguntas sobre como é a experiência de fazer um doutorado, como é a rotina, demandas de trabalho, etc. Esse post é uma tentativa de responder tais dúvidas e esclarecer de vez o que é e o que não é um doutorado no exterior.
 
-Vale ressaltar que a rotina de alunos de doutorados em Exatas, Biológicas e Humanas varia. A rotina descrita aqui corresponde a rotina de um aluno em **Humanas ou** **Ciências Sociais**. Aguarde posts futuros sobre a rotina do doutorado em outras áreas de estudo.
+Vale ressaltar que a rotina de alunos de doutorados em Exatas, Biológicas e Humanas varia. A rotina descrita aqui corresponde a rotina de um aluno em **Humanas ou** **Ciências Sociais**. Aguarde posts futuros sobre a rotina do doutorado em outras áreas de estudo.
 
-Primeiro: doutorado **não** é curso de inglês que você vai duas vezes por semana e faz lição de casa uma hora antes de ir para a aula.
+1. Primeiro: doutorado **não** é curso de inglês que você vai duas vezes por semana e faz lição de casa uma hora antes de ir para a aula.
+1. Segundo: doutorado **não** é ensino fundamental onde você  tem aula das 7:30  até  13:00 da tarde, estuda uma hora por dia e passa o resto do dia assistindo Sessão da Tarde e Malhação.
+1. Terceiro: doutorado **não** é ensino médio onde aquele professor vai te cobrar todo dia o conteúdo da matéria e a tarefa do dia. Ninguém irá te cobrar nada, mas ainda assim esperarão muito de você.
 
-Segundo: doutorado **não** é ensino fundamental onde você  tem aula das 7:30  até  13:00 da tarde, estuda uma hora por dia e passa o resto do dia assistindo Sessão da Tarde e Malhação.
+> O que é, então, um doutorado?
 
-Terceiro: doutorado **não** é ensino médio onde aquele professor vai te cobrar todo dia o conteúdo da matéria e a tarefa do dia. Ninguém irá te cobrar nada, mas ainda assim esperarão muito de você.
+Na realidade, um doutorado no exterior exige dedicação integral, de oito a dezesseis horas por dia de estudo, incluindo sábado, domingo e feriados. Durante os dois ou três primeiros anos, um aluno de doutorado precisa cursar uma certa quantidade de matérias e obter os devidos créditos. Essa quantidade varia por programa e por área de estudo. Contudo, nos Estados Unidos, alunos estrangeiros precisam cursar no mínimo 12 créditos (normalmente quatro matérias) por semestre para ser considerado aluno em tempo integral.
 
-### O que é, então, um doutorado?
-
-Na realidade, um doutorado no exterior exige dedicação integral, de oito a dezesseis horas por dia de estudo, incluindo sábado, domingo e feriados. Durante os dois ou três primeiros anos, um aluno de doutorado precisa cursar uma certa quantidade de matérias e obter os devidos créditos. Essa quantidade varia por programa e por área de estudo. Contudo, nos Estados Unidos, alunos estrangeiros precisam cursar no mínimo 12 créditos (normalmente quatro matérias) por semestre para ser considerado aluno em tempo integral.
-
-Ou seja, nesses primeiros anos, grande parte da sua carga de trabalho será focada em atender os requisitos das matérias que você está cursando. Isso envolve muita leitura (de certo uma média de  100 páginas por semana por matéria – mínimo de 400 páginas por semana), escrever relatórios e textos sobre o conteúdo lido, responder perguntas ou fazer exercícios práticos. Nos Estados Unidos, é esperado que o aluno se prepare para a aula e venha com o conhecimento necessário para discutir o tópico.
+Ou seja, nesses primeiros anos, grande parte da sua carga de trabalho será focada em atender os requisitos das matérias que você está cursando. Isso envolve muita leitura (de certo uma média de  100 páginas por semana por matéria – mínimo de 400 páginas por semana), escrever relatórios e textos sobre o conteúdo lido, responder perguntas ou fazer exercícios práticos. Nos Estados Unidos, é esperado que o aluno se prepare para a aula e venha com o conhecimento necessário para discutir o tópico.
 
 Participar em discussões em aulas faz parte de como professores americanos avaliam os alunos. Ou seja, se você vai para a aula sem estudar antes, é muito provável que não terá bom aproveitamento na matéria. A grande maioria de programas de doutorado possui exigências mínimas de aproveitamento em matérias. Estudar MUITO é uma condição sine qua non para fazer um programa de doutorado no exterior.
 

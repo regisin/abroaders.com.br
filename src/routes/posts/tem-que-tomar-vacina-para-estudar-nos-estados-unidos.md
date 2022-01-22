@@ -1,7 +1,7 @@
 ---
 title: "Tem que tomar vacina para estudar nos Estados Unidos?"
-description: ""
-author: ""
+description: "Uma pergunta que muitas pessoas me fazem é se eu já tomei todas as vacinas pra poder entrar nos EUA. O que nem todo mundo sabe é que para entrar lá, não é exigida nenhuma vacina. A não ser que você vá fazer uma paradinha básica pré-doutorado ou um voo onde será necessário que você faça imigração no Panamá. Aí você te que estar com a vacina de Febre Amarela em dia (validade de 10 anos) e com a Carteira Internacional de Vacinação, indicando a vacina no prazo ou que foi vacinado pelo menos 10 dias antes da viagem."
+author: "Livia Palmerston, Ph.D."
 date: "2014-10-18"
 categories: 
   - "passos-pos-aceites"
@@ -22,9 +22,17 @@ Uma pergunta que muitas pessoas me fazem é se eu já tomei todas as vacinas pra
 
 Para estudantes, entretanto, a exigência das vacinas é feita pela universidade de destino. Ou seja, as exigências serão diferentes para cada um e podem variar, inclusive, dependendo do departamento do qual você fará parte. Geralmente, estudantes da área de saúde ou aqueles que irão frequentar departamentos vinculados a essas áreas tem uma lista maior de agulhadas para tomar. Na tabela abaixo, podemos encontrar uma lista das vacinas mais comumente exigidas ou recomendadas. Lembrando que algumas são obrigatórias, outras apenas uma recomendação da universidade. É preciso verificar com o departamento de saúde da sua universidade quais os requisitos. Particularmente, eu coloquei todas as vacinas possíveis em dia. Não vejo motivo de não fazê-lo, é sempre melhor prevenir que remediar.
 
-<table width="572"><tbody><tr><td width="362">Sarampo / caxumba / rubéola (MMR ou tríplice viral)</td><td width="210">2 doses ou título de anticorpos positivo</td></tr><tr><td width="362">Doença Meningocócica (Quadrivalente)</td><td width="210">Imunização nos últimos 5 anos</td></tr><tr><td width="362">Tétano / Difteria / Coqueluche (DTaP)</td><td width="210">Imunização nos últimos 10 anos</td></tr><tr><td width="362">Hepatite B</td><td width="210">Série de 3 imunizações ou título de anticorpos positivos</td></tr><tr><td width="362">Influenza</td><td width="210">Imunização no último ano</td></tr><tr><td width="362">Febre Amarela</td><td width="210">Imunização nos últimos 10 anos</td></tr><tr><td width="362">Catapora</td><td width="210">Série de 2&nbsp; imunizações ou título de anticorpos positivos</td></tr></tbody></table>
+| Vacina                                              | Descrição                                                 |
+|-----------------------------------------------------|-----------------------------------------------------------|
+| Sarampo / caxumba / rubéola (MMR ou tríplice viral) | 2 doses ou título de anticorpos positivo                  |
+| Doença Meningocócica (Quadrivalente)                | Imunização nos últimos 5 anos                             |
+| Tétano / Difteria / Coqueluche (DTaP)               | Imunização nos últimos 10 anos                            |
+| Hepatite B                                          | Série de 3 imunizações ou título de anticorpos positivos  |
+| Influenza                                           | Imunização no último ano                                  |
+| Febre Amarela                                       | Imunização nos últimos 10 anos                            |
+| Catapora                                            | Série de 2  imunizações ou título de anticorpos positivos |
 
- 
+ 
 
 A maioria das vacinas exigidas é oferecida gratuitamente na rede pública e está no calendário de vacinação do adulto. Algumas, entretanto, só são encontradas na rede privada e outras nem isso. Um exemplo é a DTaP. A rede pública oferece a vacina dupla tipo adulto, que imuniza apenas contra tétano e difteria. Algumas universidade, porém, pedem que o aluno também seja imunizado contra a coqueluche. A tríplice da rede pública é indicada somente para crianças e pode levar a sérias reações adversas em adultos. A DTaP adulto é acelular, portanto não promove essas reações e é encontrada em centros de imunização privados. Um outro exemplo é a Meningocócica, que não tem sido encontrada em lugar nenhum no Brasil. No meu caso, eu tive que assinar um documento e enviar para a universidade falando que me comprometo em tomar a vacina assim que chegar lá ou me responsabilizo por qualquer consequência da não imunização.
 
@@ -36,64 +44,62 @@ Uma vez imunizado contra todas as doenças estabelecidas pela universidade, o qu
 
 Nas cidades de São Paulo, Rio de Janeiro e Belo Horizonte podem ser encontrados locais que oferecem um serviço de atendimento ao viajante, que visam orientar os viajantes no que diz respeito à diminuição dos riscos de aquisição de doenças durante viagens, doenças transmissíveis e vacinas. A pessoa pode agendar uma consulta para receber as orientações necessárias e devido encaminhamento.
 
- 
+Belo Horizonte:
 
-Belo Horizonte
+- Centro de Atenção à Saúde do Viajante
+  
+  Endereço: Rua Paraíba, 890 - Funcionários
 
-Centro de Atenção à Saúde do Viajante
+  Telefone: 31 3246-5026 31 3277-5300
 
-Endereço: Rua Paraíba, 890 - Funcionários
+  E-mail: saude.viajante@pbh.gov.br
 
-Telefone: 31 3246-5026 31 3277-5300
+  Horário de atendimento: 2ª a 6ª das 8h às 17h.
 
-E-mail: saude.viajante@pbh.gov.br
+São Paulo:
 
-Horário de Funcionamento: 2ª a 6ª das 8h às 17h.
+- Núcleo de Medicina do Viajante
 
- 
+  Instituto de Infectologia Emílio Ribas
 
-São Paulo
+  Telefone: 55 11 3896-1366
 
-Núcleo de Medicina do Viajante
+  E-mail: medviajante@emilioribas.sp.gov.br
 
-Instituto de Infectologia Emílio Ribas
+ 
 
-Tel.: 55 11 3896-1366
+- Ambulatório dos Viajantes
 
-e-mail: medviajante@emilioribas.sp.gov.br
+  Hospital de Clínicas da USP
 
- 
+  Endereço: Prédio dos Ambulatórios – 4º andar - sala 8. Av. Dr. Enéas de Carvalho Aguiar, Cerqueira César, São Paulo - Capital
 
-Ambulatório dos Viajantes
+  Telefone: 55 11 2661-6392
 
-Hospital de Clínicas da USP
+  Horário de atendimento: 8h às 16h. Emergência 24h
 
-Tel.: 55 11 2661-6392
+ 
 
-Prédio dos Ambulatórios – 4º andar - sala 8 Av. Dr. Enéas de Carvalho Aguiar, Cerqueira César, São Paulo - Capital
+- Ambulatório de Medicina do Viajante
 
-Aberto das 8h às 16h. Emergência 24h
+  Universidade Federal de São Paulo (UNIFESP)
 
- 
+  Endereço: Rua Borges Lagoa, 770 – Vila Clementino
 
-Ambulatório de Medicina do Viajante
+  Telefone: 55 11 5084-5005
 
-Universidade Federal de São Paulo (UNIFESP)
+  Horário de atendimento: segunda a sexta das 13h30 às 17h.
 
-Rua Borges Lagoa, 770 – Vila Clementino
+ 
 
-Tel.: 55 11 5084-5005
+Rio de Janeiro:
 
-Horário de Atendimento: segunda a sexta das 13h30 às 17h.
+- Centro de Informação em Saúde para Viajantes
 
- 
+  Hospital Universitário da UFRJ
 
-Rio de Janeiro
+  Endereço: Cidade Universitária da UFRJ (Ilha do Fundão), 5o. andar do prédio do Hospital Universitário, Ala Sul, sala 2.
 
-Centro de Informação em Saúde para Viajantes
+  E-mail: agenda@cives.ufrj.br
 
-Hospital Universitário da UFRJ
-
-e-mail: agenda@cives.ufrj.br
-
-Cidade Universitária da UFRJ (Ilha do Fundão), 5o. andar do prédio do - Hospital Universitário, Ala Sul, sala 2.
+  

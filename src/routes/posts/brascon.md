@@ -1,7 +1,7 @@
 ---
 title: "Conheça a BRASCON, conferência voltada para estudantes brasileiros nos EUA"
-description: ""
-author: ""
+description: "E aí, já sabe o que fazer depois da pós graduação? Como fazer pra usar esse aprendizado todo no exterior pra gerar inovação, crescer na carreira e garantir um emprego? Três estudantes brasileiras de pós graduação resolveram promover uma conferência aqui, nos Estados Unidos para tentar responder essas perguntas - a BRASCON. Essa idéia cresceu e hoje a equipe conta com 17 membros de 13 estados americanos e 14 universidades."
+author: "Equipe Abroaders"
 date: "2016-01-26"
 categories: 
   - "durante-o-phd"
