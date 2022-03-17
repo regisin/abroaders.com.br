@@ -43,7 +43,7 @@ Inicialmente, lembre-se que **o currículo é um resumo** (tanto que um sinônim
 
 Regras gerais de **formatação**: Utilize fontes básicas, como Times New Roman, Arial ou Calibri (nada de Comic Sans, hein? - e isso também vale pra vida!). Tamanho de 10 a 12 (eu costumo utilizar 12 para os títulos das seções e 11 para o texto) e espaçamento simples. Não empregue sublinhado, tachado e efeitos de texto como sombreamento e realce. Evite fontes coloridas e use negrito e itálico com parcimônia. Se quiser (e couber), pode pular uma linha entre cada item, para não ficar muito espremido. Em geral, não há nenhum padrão particular sobre margens. Algumas universidades podem ter requerimentos específicos de formato e número de páginas/caracteres/palavras (você pode fazer uma estimativa [aqui](http://www.wordcounter.net/ "word counter")), é importante sempre verificar direito.
 
-*Importante: nos EUA, o padrão oficial de página é o _letter size_ (carta), que é ligeiramente menor que o A4 - você tem que **lembrar de configurar a página corretamente** no Word. Eles também costumam alinhar o texto à esquerda (e não justificado) e não dão recuo de parágrafo (tab), por mais estranho e feio que isso possa parecer. Outra diferença: o CV deve ter numeração de página (sem formato específico).*
+_Importante: nos EUA, o padrão oficial de página é o **letter size** (carta), que é ligeiramente menor que o A4 - você tem que **lembrar de configurar a página corretamente** no Word. Eles também costumam alinhar o texto à esquerda (e não justificado) e não dão recuo de parágrafo (tab), por mais estranho e feio que isso possa parecer. Outra diferença: o CV deve ter numeração de página (sem formato específico)._
 
 **O currículo deve conter apenas texto**; ou seja, sem figuras, gráficos, diagramas, tabelas, caixas de texto, linhas, _auto-shapes_, símbolos, etc. Nada de foto do candidato! E o arquivo **não é uma carta**, então não coloque data atual, saudações, despedidas ou assinaturas. O conteúdo será estruturado na **forma de tópicos**, divididos em seções que serão exploradas na sequência. Antes; algumas regras e observações gerais:
 
@@ -62,7 +62,7 @@ O currículo não terá uma categoria de "Objetivos" - já que aqui ele é apena
 
 Liste, do mais recente (ou atual) ao mais antigo, **cada título e grau relevante obtido**, indicando nome da universidade, local e data. **Não inclua ensino médio e fundamental** e jardim de infância (a não ser ensino técnico relacionado à área pretendida). Inclua cursos em andamento, mas não cursos incompletos (desistências). Lembrem-se que cada título aqui listado terá que ser comprovado futuramente por apresentação de [diploma (ou certificado de conclusão) e histórico escolar](/posts/envio-de-documentos/ "Enviando documentos: diplomas, transcripts, traduções juramentadas e o tal do coversheet form"). Você pode incluir o título de sua tese, dissertação, monografia ou TCC (em inglês!). Não é obrigatório, para alunos estrangeiros, indicar notas (nem mesmo o [GPA](/posts/gpa-estudar-fora/ "O bendito (ou maldito) GPA: necessário para estudar fora")), mas podem-se inserir prêmios e reconhecimentos por bom desempenho escolar.
 
-*Nota sobre alguns termos: _graduation_ é o baile de formatura! O que nós chamamos de graduação é _undergraduate degree_ em inglês. _Graduate degree_ seria a nossa pós-graduação (e _postgraduate_, algo como o pós-doutorado). O melhor é indicar o nome do título mesmo, como _bachelor, licenciate, master, specialist,_ etc. Entenda melhor a terminologia [neste post](/posts/graus-de-formacao/ "Undergraduate Degree, Graduate Degree, Master, Doctorate (PhD): entenda de uma vez por todas as categorias de formação do ensino superior nos EUA").*
+_Nota sobre alguns termos: **graduation** é o baile de formatura! O que nós chamamos de graduação é **undergraduate degree** em inglês. **Graduate degree** seria a nossa pós-graduação (e **postgraduate**, algo como o pós-doutorado). O melhor é indicar o nome do título mesmo, como **bachelor, licenciate, master, specialist,** etc. Entenda melhor a terminologia [neste post](/posts/graus-de-formacao/ "Undergraduate Degree, Graduate Degree, Master, Doctorate (PhD): entenda de uma vez por todas as categorias de formação do ensino superior nos EUA")._
 
 ## Additional Coursework
 
@@ -72,7 +72,7 @@ Liste, de forma análoga ao anterior, **cursos extras** (que não conferem títu
 
 Indique **bolsas e prêmios** (seja em dinheiro, brindes ou simbólicos) recebidos ao longo de sua trajetória acadêmica e profissional, desde que tenham relevância, explicitando o nome da bolsa, a instituição concedente e o motivo. Pode-se incluir auxílios e financiamentos a projetos de pesquisa (como **iniciações científicas**), patrocínios de empresas, programas de monitoria, competições e concursos, intercâmbios, reconhecimentos diversos, show do milhão, entre outros.
 
-*Atenção: apenas insira sua bolsa do Ciência sem Fronteiras se a mesma já estiver sido concedida! Mas caso você tenha sido pré-selecionado por alguma instituição parceira (como a LASPAU), você pode incluir isso no currículo.*
+_Atenção: apenas insira sua bolsa do Ciência sem Fronteiras se a mesma já estiver sido concedida! Mas caso você tenha sido pré-selecionado por alguma instituição parceira (como a LASPAU), você pode incluir isso no currículo._
 
 ## Professional Experience
 
@@ -100,7 +100,7 @@ Aqui você pode incluir no seu currículo qualquer outra experiência relevante,
 
 > Parece difícil, hein? Não tem uns prontos aí para dar uma luz?
 
-Mas é claro, jovem! Já pensamos nisso. Veja [aqui](/files/Exemplos-de-currículos-bem-sucedidos.pdf){rel="external"} alguns exemplos de currículos bem-sucedidos para lhe inspirar e ajudar a elaborar o seu próprio. Abroaders é amor.
+Mas é claro, jovem! Já pensamos nisso. Veja [aqui](/files/Exemplos-de-curriculos-bem-sucedidos.pdf){rel="external"} alguns exemplos de currículos bem-sucedidos para lhe inspirar e ajudar a elaborar o seu próprio. Abroaders é amor.
 
 Por fim, uma última dica: assim que terminar, passe um corretor ortográfico, leia de novo algumas vezes e **peça para algum falante nativo dar uma lida** - não só para corrigir a gramática, mas também o estilo, para tentar deixar o texto o mais natural possível. Tome muito cuidado com o Google Tradutor, prefira alguns sites que traduzem expressões em contextos específicos, como o [Linguee](http://www.linguee.com.br/ "linguee"). Em caso de dúvida sobre algum termo específico da área, melhor consultar um especialista.
 
